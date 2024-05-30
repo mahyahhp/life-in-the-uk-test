@@ -94,7 +94,7 @@ Life in the United Kingdom (3rd edition)
 | 1918|Chartists campaigned has adapted| - he voting franchise was also extended to women over 30|
 | 1921                | peace treaty | - peace signed between Ireland and Britain|
 | 1922                | Ireland becomes 2 countries / BBC radio | - 6 protestant countries in the north and the rest is Irish Free State <br>- the Troubles: The conflict between those wishing for full Irish independence and those wishing to remain loyal to the British government |
-| 1928                | women can vote at the same age of men, 21 | |
+| 1928                | women can vote at the same age of men, 21 | - a fully democratic voting system|
 | 1929                | Great Depression | - shipbuilding were badly affected but new industries – including the automobile and aviation industries – developed |
 | 1930s               | Touring Machine | |
 | 1932                | invention of TV | by scotsman John Logie Baird |
@@ -114,19 +114,27 @@ Life in the United Kingdom (3rd edition)
 | 1949                | Republic of Ireland | |
 |1950| Harold Macmillan| -  was famous for his ‘wind of change’ speech about decolonisation and independence for the countries of the Empire.|
 | 1951-1964           | Conservative Government | -Winston Churchill returned as Prime Minister <br>- probably in this period Beveridge report (Social Insurance and Allied Services)  and Butler with free secondary education |
-| 1957                | EEC | European Economic Community |
+| 1952 |Queen Elizabeth II has reigned||
+| 1957                | EEC | - European Economic Community <br>- the Treaty of Rome : et up by six western European countries (Belgium, France, Germany, Italy, Luxembourg and the Netherlands) -  |
+| 1958| Changes in the House of Lords| - Until 1958, all peers (Members of the House of Lords) were: ‘hereditary’, which means they inherited their title; or senior judges; or bishops of the Church of England. <br>- Since 1958, the Prime Minister has had the power to nominate peers just for their own lifetime. These are called life peers. They have usually had an important career in politics, business, law or another profession. Life peers are appointed by the monarch on the advice of the Prime Minister. |
 | 1959                | Margaret Thatcher | is MP, becomes leader of opposition in 1975 |
 | 1969|voting age was reduced to 18 for men and women||
 | 1969                | The Troubles | in Northen Ireland, 3000 people died those years, women and men can vote at 18 |
-| 1972                | Northen Ireland parliament was suspended | |
+| 1972                | Northen Ireland parliament was abolished | |
 | 1973                | UK joins EEC | |
 | 1990                | WWW | Sir Tim Berners-Lee | 
 | 1990                | UK wars | help liberate from Iraqi invasion of Kuwait and Former Republic of Yugoslavia |
 | 1997                | Tony Blair | Labour government, creates Scottish Parliament and Welsh Assembly |
-| 1999                | Scottish Parliament. Hereditary peers lost automatic right to attend the House of Lords, they now elect a few of their memebers. | |
+| 1997                | More power to Wales, Scotland and Northern Ireland||
+| 1999                | Changes in the House of Lords|- hereditary peers have lost the automatic right to attend the House of Lords. They now elect a few of their number to represent them in the House of Lords.|
+|1999                 |Welsh Assembly, Scottish Parliament, Northern Ireland Assembly  (members elected using a form of proportional representation)|- public services, such as education, are controlled by the devolved administrations. <br>- Policy and laws governing defence, foreign affairs, immigration, taxation and social security all remain under central UK government control. <br>- The devolved administrations each have their own civil service. <br>- The UK government has the power to suspend all devolved assemblies.|
 |2002                 |Winston Churchill voted the greatest Briton of all time by the public||
 | 2009                | Britain leaves Iraq | |
 | 2010                | no party won the election | Conservative and Liberal Democrat parties formed a coalition led by David Cameron |
+|2012|Diamond Jubilee (60 years as queen)||
+| 2020| Brexit||
+|2022| Queen Elizabeth II died||
+
 
 ### History facts ###
 
@@ -454,10 +462,10 @@ Devolved administrations
 
 | Name | Creation | Members | NMembers | Details |
 | --- | --- | --- | --- | --- |
-| National Assembly of Wales | | Assembly members (AMs) | 60 | elections every 4 years, building is Senedd |
-| Scottish Parliament | 1999 | members of the Scottish Parliament (MSPs), elected via proportional representation | 129 | |
+| National Assembly of Wales | 1999 | Assembly members (AMs) | 60 | - elections every 4 years - building is Cardiff - can pass laws for Scotland on all matters which are not specifically reserved to the UK Parliament - To make a booking, contact the Assembly Booking Service or the email assembly.|
+| Scottish Parliament | 1999 | members of the Scottish Parliament (MSPs), elected via proportional representation | 129 | - can pass laws for Scotland on all matters which are not specifically reserved to the UK Parliament - To visit you can book tickets or arrange tours through visitor services.|
 | Northern Ireland Parliament | 1922 |  | | abolished in 1972 |
-| Northern Ireland Assembly | 1998 |  members of the Legislative Assembly (MLAs) meet in the Northern Ireland Assembly at Stormont, Belfast | 108 | |
+| Northern Ireland Assembly | 1998 |  - members of the Legislative Assembly (MLAs) meet in the Northern Ireland Assembly at Stormont, Belfast | 108 |- the Assembly has been running successfully since 2007. - To visit you can either contact the Education Service (details are on the Northern Ireland Assembly website at www.niassembly.gov.uk) or contact an MLA.|
 
 ## Government and politics facts ##
 
@@ -468,6 +476,20 @@ Devolved administrations
     * **Home Secretary** – responsible for crime, policing and immigration
     * **Foreign Secretary** – responsible for managing relationships with foreign countries
     * other ministers (called ‘**Secretaries of State**’) responsible for subjects such as education, health and defence.
+These ministers form the cabinet, a committee which usually meets weekly. Each department also has a number of other ministers, called Ministers of State and Parliamentary Under-Secretaries of State, who take charge of particular areas of the department’s work.
+*The opposition: The second-largest party in the House of Commons. The leader of the opposition usually becomes Prime Minister if his or her party wins the next General Election. They challenges PM at Prime Minister’s Questions, which takes place every week while Parliament is sitting. The leader of the opposition also appoints senior opposition MPs to be ‘shadow ministers’. They form the shadow cabinet and their role is to challenge the government and put forward alternative policies.
+* Pressure and lobby groups: are organisations which try to influence government policy such as the CBI (Confederation of British Industry) which represents the views of British busines, the environment (for example, Greenpeace) or human rights (for example, Liberty).
+* The civil service: support the government in developing and implementing its policies. They also deliver public services. Civil servants are accountable to ministers. They are chosen on merit and are politically neutral – they are not political appointees.
+* Local governments=councils=local authorities: - For towns, cities and rural areas- They are funded by money from central government and by local taxes. - London has 33 local authorities, with the Greater London Authority and the Mayor of London coordinating policies across the capital. - Usually council elections are held every year.
+* Proceedings in Parliament are published in official reports called Hansard.
+* The electoral register: To vote! Britain: You can register by contacting your local council. www.aboutmyvote.co.uk to find your local council. Northern Ireland: A system called ‘individual registration’ and all those entitled to vote must complete their own registration form.
+* People vote in elections at places called polling stations, or polling places in Scotland.Before the election you will be sent a poll card. This tells you where your polling station or polling place is and when the election will take place. On election day, the polling station or place will be open from 7.00 am until 10.00 pm.When you arrive at the polling station, the staff will ask for your name and address. In Northern Ireland you will also have to show photographic identification. - You can also vote using postal ballot.
+* Standing for (public) offices: Most citizens of the UK, the Irish Republic or the Commonwealth aged 18 or over can stand for public Office. There are some exceptions, including: - members of the armed forces - civil servants - people found guilty of certain criminal offences. - Members of the House of Lords may not stand for election to the House of Commons.
+* Visiting the UK parliment: - write to your local MP in advance to ask for tickets - you can queue on the day at the public entrance (free)
+* the Commonwealth has 54 member states. Membership is voluntary. The Commonwealth has no power over its members, although it can suspend membership.
+* the United Nations (UN): 190 members. The UN was set up after the Second World War and aims to prevent war and promote international peace and security.
+* the UN Security Council: recommends action when there are international crises and threats to peace. <br>- The UK is one of five permanent members of the Security Council.
+* NATO: It also aims to maintain peace between all of its members.
 * The House of Lords can suggest amendments or propose new laws, which are then discussed by MPs. It checks laws that have been passed by the House of Commons to ensure they are fit for purpose. It also holds the government to account to make sure that it is working in the best interests of the people.
 * Since 1958, the Prime Minister has had the power to nominate peers just for their own lifetime. These are called life peers. They have usually had an important career in politics, business, law or another profession. Life peers are appointed by the monarch on the advice of the Prime Minister.
 * Since 1999, hereditary peers have lost the automatic right to attend the House of Lords. The Reform Act of 1832 had greatly increased the number of people with the right to vote. The Act also abolished the old pocket and rotten boroughs and more parliamentary seats were given to the towns and cities.

@@ -5,9 +5,9 @@ Life in the United Kingdom (3rd edition)
 
 | When | What | Details |
 | ---        | ---       | --- |
-|10,000yrs         | Britain separated | from the continent | 
-| 6,000yrs          | First farmers | come to Britain from South-East Europe |
-| 4,000yrs          | Bronze Age | then becomes Iron Age |
+|10,000yrs         | Stone Age | - Poople were hunter-gatherers <br>- Britain seperated from the continent | 
+| 6,000yrs          | First farmers | - People came to Britain from South-East Europe <br>- Made Stonehenge in the English county of Wiltshire for a special gathering place for seasonal ceremonies <br>- Made Skara Brae on Orkney in Scotland which is the best preserved prehistoric village in northern Europe |
+| 4,000yrs          | Bronze Age | - People lived in rounhouses <br>- People buried their dead in tombs called *round barrows* <br>- Making tools, ornaments and weapons using bronze and gold <br>*- then becomes Iron Age |
 | 410                  | Romans end | Roman army(arrived in 43) leaves and never returns |
 | 789                  | Vikings | came from Norway and Denmark, defeated by King Alfred the Great |
 | 1066                | Norman Conquest | William (Duke of Normandy) the Conqueror wins Battle of Hastings and invades Britain |
@@ -363,6 +363,11 @@ Life in the United Kingdom (3rd edition)
 
 ### General Facts ###
 
+* UK: England + Scotland + Wales + Northern Ireland
+* The official name of the country: United Kingdom of Great Britain and Northern Ireland
+* Great Britain: England + Scotland + Wales
+* "Britain", "British Isles" or "British": everyone living in the UK
+* Crown dependencies: Channel Islands and Isle of Man (not part of the UK and have their goverment)
 * 15 national parks in the UK
 * It takes about **1 hour** to donate blood
 * MOT for cars older than **3 years**

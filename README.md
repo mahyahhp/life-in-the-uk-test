@@ -70,6 +70,7 @@ Life in the United Kingdom (3rd edition)
 |1832                 |The Reform Act| -had greatly increased the number of people with the right to vote. The Act also abolished the old pocket and rotten boroughs and more parliamentary seats were given to the towns and cities. Voting was still based on ownership of property. |
 | 1833                | Emancipation Act | - abolished slavery throughout the British Empire - 2 million Indian and Chinese workers were employed to replace the freed slaves. They worked on sugar plantations in the Caribbean, in mines in South Africa, on railways in East Africa and in the army in Kenya.| 
 | 1837                | Queen Victoria | - at the age of 18 and ruled for 64 years (Victorian Age or period) <br>- Britain increased in power and influence abroad. British Empire grew to cover all of India, Australia and large parts of Africa. It became the largest empire the world has ever seen, with an estimated population of more than 400 million people. Many people were encouraged to leave the UK to settle overseas. Between 1853 and 1913, as many as 13 million British citizens left the country. People continued to come to Britain from other parts of the world. For example, between 1870 and 1914, around 120,000 Russian and Polish Jews came to Britain to escape persecution. Many settled in London’s East End and in Manchester and Leeds. British industry led the world in the 19th century. The UK produced more than half of the world’s iron, coal and cotton cloth. The UK also became a centre for financial services, including insurance and banking. |
+|1830-1840|the Chartists campaigned|They wanted six changes: - for every man to have the vote - elections every year - for all regions to be equal in the electoral system - secret ballots - for any man to be able to stand as an MP - for MPs to be paid.|
 | 1840                | Punch Magazine | satirical magazine |
 | 1846                | Abolishment/repealing of Corn Laws | - To import of cheap grains and helping industies.|
 | 1847                 | Better working condition| - the number of hours that women and children could work was limited by law to 10 hours per day.|
@@ -84,34 +85,46 @@ Life in the United Kingdom (3rd edition)
 | 1896                | first public screening of movies | |
 | 1902                | Motor-car racing in the UK started |
 |1903|Women’s Social and Political Union (WSPU)| - This was the first group whose members were called ‘suffragettes'  by Emmeline Pankhurst <br>- protest to gain the vote for women|
-| 1914-1918          | WW1 | assassination of Austrian Archduke Franz Ferdinand |
-| 1918                | end of the WW1 on 11th of November, also women can vote at the age of 30 (in recognition of the contribution women made to the war effort during the First World War.) |
-| 1922                | Ireland becomes 2 countries / BBC radio | 6 protestant countries the rest is Irish Free State |
-| 1928                | women can vote at the same age of men, 21 |
-| 1929                | Great Depression | |
-| 1930s              | Touring Machine | |
+|1913|Home Rule promissed to Ireland|-have a self-governing Ireland with its own parliament but still part of the UK  |
+| 1914-1918          | WW1 | - assassination of Austrian Archduke Franz Ferdinand triggered the war <br>- Britain was part of the Allied Powers, which included (amongst others) France, Russia, Japan, Belgium, Serbia – and later, Greece, Italy, Romania and the United States (against Central Powers - mainly Germany, the Austro-Hungarian Empire, the Ottoman Empire and later Bulgaria) <bar> - more than 2 million British casualties|
+| 1916                |British attack on the Somme| - about 60,000 British casualties on the first day alone.|
+| 1916                |Easter Rising| -  uprising against the British in Dublin for Ireland independence. Defeated by Britain. |
+| 1916                |guerrilla war| - against the British army and the police in Ireland |
+| 1918                | - end of the WW1 on 11th of November <br>- also women can vote at the age of 30 (in recognition of the contribution women made to the war effort during the First World War.) |
+| 1918|Chartists campaigned has adapted| - he voting franchise was also extended to women over 30|
+| 1921                | peace treaty | - peace signed between Ireland and Britain|
+| 1922                | Ireland becomes 2 countries / BBC radio | - 6 protestant countries in the north and the rest is Irish Free State <br>- the Troubles: The conflict between those wishing for full Irish independence and those wishing to remain loyal to the British government |
+| 1928                | women can vote at the same age of men, 21 | |
+| 1929                | Great Depression | - shipbuilding were badly affected but new industries – including the automobile and aviation industries – developed |
+| 1930s               | Touring Machine | |
 | 1932                | invention of TV | by scotsman John Logie Baird |
+| 1933                | Hitler| - came to power in Germany|
 | 1935                | invention of Radar | by Sir Robert Watson-Watt |
-| 1936                | BBC first TV service | |
-| 1939                | WW2 | Germany invades Poland |
-| 1940                | Battle of Britain | aerial battle to fight "The Blitz" of german bombing UK |
-| 1940-1944     | The Dunkirk Spirit | evacuation of British and French troops as France falls, rescuing 300,000 people |
+| 1936                | BBC first world's TV service | |
+| 1939                | WW2 | - Germany invades Poland <br>- Britain and France declared war <br>- The war was initially fought between the Axis powers (fascist Germany and Italy and the Empire of Japan) and the Allies. The main countries on the allied side were the UK, France, Poland, Australia, New Zealand, Canada, and the Union of South Africa.|
+| 1940                | Battle of Britain | - aerial battle <br>- The most important planes used by the Royal Air Force were the Spitfire and the Hurricane <br>- Despite this crucial victory, the German air force was able to continue bombing London and other British cities at night-time. This was called the Blitz. <br>- The phrase ‘the Blitz spirit’ is still used today to describe Britons pulling together in the face of adversity.|
+| 1940     | The Dunkirk Spirit | - evacuation of British and French troops from France as France falls and rescuing 300,000 people (Many civilian volunteers in small pleasure and fishing boats from Britain helped) |
+|1940                 |Winston Churchill became Prime Minister||
+|1941                 |US entered the WII war|-  when the Japanese bombed its naval base at Pearl Harbour |
 | 1944                | D-Day | Allies in Normandy to attack Germans |
-| 1945                | end of WW2 | German defeat, atom bomb in Japan|
-| 1945                | Labour Government | Clement Attlee is PM, nationalisation of industries and strong welfare |
-| 1947                | colonies independent | Britain give independence to 9 countries, including India, Pakistan and Ceylon(Sri Lanka) |
+| 1945                | end of WW2 | - German defeat <br>- atom bomb in Japan (Hiroshima and Nagasaki)|
+| 1945                | Labour Government | Clement Attlee is PM, nationalisation of industries (railways, coal mines and gas, water and electricity supplies) and strong welfare (who promised to introduce the welfare state outlined in the Beveridge Report.)|
+| 1947                | colonies independent | - Britain give independence to 9 countries, including India, Pakistan and Ceylon(Sri Lanka) <br>- Other colonies in Africa, the Caribbean and the Pacific achieved independence over the next 20 years. <br>- The UK developed its own atomic bomb and joined the new North Atlantic Treaty Organization (NATO)|
 | 1948                | NHS | by minister Aneurin (Nye) Bevan |
-| 1949                | Republic of Ireland | |C
-| 1951-1964          | Conservative Government | probably in this period Beveridge report (Social Insurance and Allied Services)  and Butler with free secondary education |
+| 1949                | Republic of Ireland | |
+|1950| Harold Macmillan| -  was famous for his ‘wind of change’ speech about decolonisation and independence for the countries of the Empire.|
+| 1951-1964           | Conservative Government | -Winston Churchill returned as Prime Minister <br>- probably in this period Beveridge report (Social Insurance and Allied Services)  and Butler with free secondary education |
 | 1957                | EEC | European Economic Community |
 | 1959                | Margaret Thatcher | is MP, becomes leader of opposition in 1975 |
-| 1969                | The Troubles | in Northen Ireland, , 3000 people died those years, women and men can vote at 18 |
+| 1969|voting age was reduced to 18 for men and women||
+| 1969                | The Troubles | in Northen Ireland, 3000 people died those years, women and men can vote at 18 |
 | 1972                | Northen Ireland parliament was suspended | |
 | 1973                | UK joins EEC | |
 | 1990                | WWW | Sir Tim Berners-Lee | 
 | 1990                | UK wars | help liberate from Iraqi invasion of Kuwait and Former Republic of Yugoslavia |
 | 1997                | Tony Blair | Labour government, creates Scottish Parliament and Welsh Assembly |
 | 1999                | Scottish Parliament. Hereditary peers lost automatic right to attend the House of Lords, they now elect a few of their memebers. | |
+|2002                 |Winston Churchill voted the greatest Briton of all time by the public||
 | 2009                | Britain leaves Iraq | |
 | 2010                | no party won the election | Conservative and Liberal Democrat parties formed a coalition led by David Cameron |
 
@@ -448,7 +461,7 @@ Devolved administrations
 
 ## Government and politics facts ##
 
-
+* The British constitution is not written down in any single document, and therefore it is described as ‘unwritten’. This is mainly because the UK, unlike America or France, has never had a revolution which led permanently to a totally new system of government.
 * When you arrive at the polling station, the staff will ask for your name and address. In Northern Ireland you will also have to show photographic identification. You will then get your ballot paper, which you take to a polling booth to fill in privately
 * The Prime Minister appoints about **20** senior MPs to become ministers in charge of departments:  
     * **Chancellor of the Exchequer** – responsible for the economy

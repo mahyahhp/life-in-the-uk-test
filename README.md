@@ -132,6 +132,7 @@ Life in the United Kingdom (3rd edition)
 |1999                 |Welsh Assembly, Scottish Parliament, Northern Ireland Assembly  (members elected using a form of proportional representation)|- public services, such as education, are controlled by the devolved administrations. <br>- Policy and laws governing defence, foreign affairs, immigration, taxation and social security all remain under central UK government control. <br>- The devolved administrations each have their own civil service. <br>- The UK government has the power to suspend all devolved assemblies.|
 |2002                 |Winston Churchill voted the greatest Briton of all time by the public||
 | 2009                | Britain leaves Iraq | |
+|2007-2010|Gorden Brown|Laber Party|
 | 2010                | no party won the election | Conservative and Liberal Democrat parties formed a coalition led by David Cameron |
 |2012|Diamond Jubilee (60 years as queen)||
 | 2020| Brexit| quit from EU|
@@ -155,7 +156,7 @@ Life in the United Kingdom (3rd edition)
 
 | Name | What | Period |
 | --- | --- | --- |
-| William (Duke of Normandy) | Defeats saxon King Harold, **Doomsday Book** | 1066 |
+| William (Duke of Normandy) | Defeats saxon King Harold, **Doomsday Book** (how people lived after Norman Conquest) | 1066 |
 | King John | **Magna Carta** | 1215 |
 | Kind Edward I | **Statute of Rhuddlan** | 1284 |
 | Robert The Bruce | defeats english Battle of Bannockburn | 1314 |
@@ -241,9 +242,62 @@ Life in the United Kingdom (3rd edition)
 | Lewis Hamilton | won the Formula 1 World Championship |
 | Jensen Button | won the Formula 1 World Championship |
 
-### Sport facts ###
-* The UK has hosted the Olympic Games on three occasions: **1908, 1948 and 2012** 
-* There are **5** ski resorts in Scotland
+* Wembley Stadium in London
+* Millennium Stadium in Cardiff
+* The UK has hosted the Olympic Games on three occasions: **1908, 1948 and 2012 (in Stratford, East London - finishing third in the medal table)**
+* Paralympic Games in 2012 hosted in London
+* The Paralympics have their origin in the work of Dr Sir Ludwig Guttman, a German refugee, at the Stoke Mandeville hospital in Buckinghamshire. He developed new methods of treatment for people with spinal injuries and encouraged patients to take part in exercise and sport.
+* There are **5** ski resorts in UK, all in Scotland
+
+
+Cricket
+* originated in England
+* Reflects the best of the British character
+* You may come across expressions such as ‘rain stopped play’, ‘batting on a sticky wicket’, ‘playing a straight bat’, ‘bowled a googly’ or ‘it’s just not cricket’, which have passed into everyday usage.
+*  Ashes: The most famous competition, which is a series of Test matches played between England and Australia.
+
+
+Football
+* First professional football clubs were formed in the late 19th century.
+* England (Premier League), Scotland, Wales and Northern Ireland each have separate leagues
+* England’s only international tournament victory was at the World Cup of 1966, hosted in the UK.
+
+
+Rugby
+* Rugby originated in England in the early 19th century
+* Types of rugby: union and league
+* Six Nations Championship: competition between England, Ireland, Scotland, Wales, France and Italy
+* The Super League: most well-known rugby league (club) competition
+
+Horce-racing
+* since Romans
+* Royal Ascot: 5 days race meeting in Berkshire attended by members of the Royal Family
+* Grand National: horse-riding event in Aintree near Liverpool
+* Scottish Grand National: horse-riding event in Ayr
+* National hourseridings museum: in suffolks
+
+Golf
+* Since 15th century in Scotland
+* St Andrews in Scotland is known as the home of golf.
+* The Open Championship: the only ‘Major’ tournament held outside the United States.
+
+Tennis
+* Since the late 19th century
+* The first tennis club was founded in Leamington Spa in 1872.
+* Wimbledon Championships: at the All England Lawn Tennis and Croquet Club. the oldest tennis tournament in the world and the only ‘Grand Slam’ event played on grass.
+
+Water sports
+* Cowes: a sailing event on the Isle of Wight
+* There is a popular yearly rowing race on the Thames between Oxford and Cambridge Universities.
+
+Motor sports
+* Motor-car racing in the UK started in 1902
+* Formula 1 Grand Prix: event
+
+Skiing
+* There are 5 ski centres in Scotland
+* Europe’s longest dry ski slope near Edinburgh.
+
 
 ### Music ###
 
@@ -530,6 +584,8 @@ Life in the United Kingdom (3rd edition)
 *  The traditions of comedy and satire, and the ability to laugh at ourselves, are an important part of the UK character.
 *  10% of population has parents/grandparents out of the UK
 *  Swansea is in wales.
+*  Prince Willian : is the heir to throne
+*  Slave trade: west africa
 *  
 
 ## National Anthem ##

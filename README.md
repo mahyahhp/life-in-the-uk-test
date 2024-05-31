@@ -15,7 +15,7 @@ Life in the United Kingdom (3rd edition)
 | 410-600              | | - Invaded by tribes from northern Europe: the Jutes, the Angles and the Saxons <br>- The languages they spoke are the basis of modern-day English|
 | 600                  | Anglo-Saxons | -Parts of the west of Britain, including much of what is now Wales, and Scotland, remained free of Anglo-Saxon rule. <br>- The burial place of one of the kings was at Sutton Hoo in modern Suffolk.|
 |600-789 | |- Anglo-Saxons became christants <br>- St Patrick, Missionary from Ireland spread the religion in the north (patron saint of Ireland)<br>- St Columba, missionary in Scotland. <br>- St Augustine led missionaries from Rome, who spread Christianity in the south (England) and he became the first Archbishop of Canterbury. |
-| 789                 | Vikings coming | - Came from Norway and Denmark <be>- Began to stay and form their own communities in the east of England and Scotland <br>- Defeated by King Alfred the Great, an English Anglo-Saxon king -<br> Defeated vikings stayed in the east and north of England, in an area known as the Danelaw -<br> Vikings ruled England for a short perioed by a Danish king who was Cnut (also called Canute). <br> Kenneth MacAlpin: King in Scotland to defend Vikings|
+| 789                 | Vikings coming | - Came from Norway and Denmark <be>- Began to stay and form their own communities in the east of England and Scotland <br>- Defeated by King Alfred the Great, an English Anglo-Saxon king -<br> Defeated vikings stayed in the east and north of England, in an area known as the Danelaw -<br> Vikings ruled England for a short perioed by a Danish king who was Cnut (also called Canute). <br> Kenneth MacAlpin: King in Scotland to defend Vikings (The first Scotland king)|
 | 1066                | Normans | William the Conqueror (Duke of Normandy in what is now northern France) wins Battle of Hastings and defeates Harold, the Saxon king of England. <br>- The battle of Hastings is commemorated in a great piece of embroidery (70 m tall), known as the **Bayeux Tapestry**, which can still be seen in France today. <br>-  The last successful foreign invasion of England. <br>- Norman French influenced the development of the English language as we know it today. <br>- Not successful to conquer Wales and Scotland (only England). <br>- Feudalism: King gives land to his lords (landowners and they called clans in Scotland) -> lords give a small area to peasants (serfs) and in return they should work for lords and fight for kings|
 |1066-1485 | Middle Ages (the medieval period) |- It was a time of almost constant war. In UK: English kings trying to conquer Wales, Scotland and Ireland. Out UK: Many knights took part in the Crusades, in which European Christians fought for control of the Holy Land. English kings also fought a long war with France, called the Hundred Years War (even though it actually lasted 116 years) <br>- Parliament began to develop into the institution it is today (king’s council of advisers, which included important noblemen and the leaders of the Church) <br>- The king and his noblemen had spoken Norman French and the peasants had continued to speak Anglo-Saxon. Gradually these two languages combined to become one English language. Some words in modern English – for example, ‘park’ and ‘beauty’ – are based on Norman French words. Others – for example, ‘apple’, ‘cow’ and ‘summer’ – are based on Anglo-Saxon words. In modern English there are often words with very similar meanings, one from French and one from Anglo-Saxon. ‘Demand’ (French) and ‘ask’ (Anglo-Saxon) are examples. <br>- Castles: Windsor and Edinburgh <br>- Cathedrals: Lincoln Cathedral and York Minster (famous for windows of stained glass, telling stories about the Bible and Christian saints) <br>- English wool became a very important export. <br>- People came to England from France as weavers, Germany as engineers, Italy as glass manufacturers and from Holland as canal builders.|
 | 1200                |English ruled an area of Ireland| - The area known as the Pale, around Dublin.|
@@ -77,13 +77,13 @@ Life in the United Kingdom (3rd edition)
 | 1851                | Great Exhibition | in Hyde Park in the Crystal Palace: Countries from all over the world showed their goods but most of the objects were made in Britain. |
 | 1853-1856       | Crimean Wars | - Britain, France and Turkey fight Russia <br> - It was the first war to be extensively covered by the media through news stories and photographs. <br> - The conditions were very poor and many soldiers died from illnesses they caught in the hospitals, rather than from war wounds. <br> - Queen Victoria introduced the Victoria Cross medal during this war. It honours acts of valour by soldiers. |
 |1860| Modern nursing| - Florence Nightingale was born in Italy to English parents. At the age of 31, she trained as a nurse in Germany. In 1854, she went to Turkey and worked in military hospitals, treating soldiers who were fighting in the Crimean War. She and her fellow nurses improved the conditions in the hospital and reduced the mortality rate. In 1860 she established the Nightingale Training School for nurses at St Thomas’ Hospital in London. The school was the first of its kind and still exists today, as do many of the practices that Florence used. She is often regarded as the founder of modern nursing.|
-| 1861            | Ireland famine | - A million people died from disease and starvation. Another million and a half left Ireland. <br>-The Irish Nationalist movement had grown strongly: Fenians, favoured complete independence. Others, such as Charles Stuart Parnell, advocated ‘Home Rule’, in which Ireland would remain in the UK but have its own parliament.|
+| 1861            | Ireland famine | - A million people died from disease and starvation. Another million and a half left Ireland. <br>-The Irish Nationalist movement had grown strongly: **Fenians**, favoured complete independence. Others, such as Charles Stuart Parnell, advocated ‘Home Rule’, in which Ireland would remain in the UK but have its own parliament.|
 |1867|another Reform Act|- By Campaigners called the Chartists <br>- This created many more urban seats in Parliament and reduced the amount of property that people needed to have before they could vote. However, the majority of men still did not have the right to vote and no women could vote.|
 |1870| Acts of Parliament| - gave wives the right to keep their own earnings and property (not belonging to husband.)|
 |1889| Women’s Franchise League| - to get the vote in local elections for married women by Emmeline Pankhurst|
 |1895                 |National Trust was founded| - charities that work to preserve important buildings, coastline and countryside in the UK and started by 4 volunteers - now more than 61,000 volunteers |
 | 1896                | first public screening of movies | |
-| 1899-1902           | Boer Wars | - The British went to war in South Africa with settlers from the Netherlands called the Boers. |
+| 1899-1902           | Boer Wars | - The British went to war in South Africa with settlers from the Netherlands called the Boers. <br>- discussions about the future of the Empire more urgent|
 | 1902                | Motor-car racing in the UK started |
 |1903|Women’s Social and Political Union (WSPU)| - This was the first group whose members were called ‘suffragettes'  by Emmeline Pankhurst <br>- protest to gain the vote for women|
 |1913|Home Rule promissed to Ireland|-have a self-governing Ireland with its own parliament but still part of the UK  |
@@ -115,18 +115,18 @@ Life in the United Kingdom (3rd edition)
 | 1949                | Republic of Ireland | |
 |1950| Harold Macmillan| -  was famous for his ‘wind of change’ speech about decolonisation and independence for the countries of the Empire.|
 |1950|European Convention on Human Rights | UK signed it|
-| 1951-1964           | Conservative Government | -Winston Churchill returned as Prime Minister <br>- probably in this period Beveridge report (Social Insurance and Allied Services)  and Butler with free secondary education |
+| 1951-1964           | Conservative Government | -Winston Churchill returned as Prime Minister <br>- probably in this period Beveridge report (Social Insurance and Allied Services)  and R. A. (Richard Auston) Butler (conservative MP) with free secondary education |
 | 1952 |Queen Elizabeth II has reigned||
-| 1957                | EEC | - European Economic Community <br>- the Treaty of Rome : et up by six western European countries (Belgium, France, Germany, Italy, Luxembourg and the Netherlands) -  |
+| 1957                | EU/EEC | - European Economic Community <br>- the Treaty of Rome : set up by six western European countries (Belgium, France, Germany, Italy, Luxembourg and the Netherlands) -  |
 | 1958| Changes in the House of Lords| - Until 1958, all peers (Members of the House of Lords) were: ‘hereditary’, which means they inherited their title; or senior judges; or bishops of the Church of England. <br>- Since 1958, the Prime Minister has had the power to nominate peers just for their own lifetime. These are called life peers. They have usually had an important career in politics, business, law or another profession. Life peers are appointed by the monarch on the advice of the Prime Minister. |
 | 1959                | Margaret Thatcher | is MP, becomes leader of opposition in 1975 |
 | 1969|voting age was reduced to 18 for men and women||
 | 1969                | The Troubles | in Northen Ireland, 3000 people died those years, women and men can vote at 18 |
 | 1972                | Northen Ireland parliament was abolished | |
-| 1973                | UK joins EEC/EU | |
+| 1973                | UK joined EEC/EU | |
 | 1990                | WWW | Sir Tim Berners-Lee | 
 | 1990                | UK wars | help liberate from Iraqi invasion of Kuwait and Former Republic of Yugoslavia |
-| 1997                | Tony Blair | Labour government, creates Scottish Parliament and Welsh Assembly |
+| 1997                | Tony Blair | Labour government, creates Scottish Parliament and Welsh Assembly (Senedd building)|
 | 1997                | More power to Wales, Scotland and Northern Ireland||
 | 1999                | Changes in the House of Lords|- hereditary peers have lost the automatic right to attend the House of Lords. They now elect a few of their number to represent them in the House of Lords.|
 |1999                 |Welsh Assembly, Scottish Parliament, Northern Ireland Assembly  (members elected using a form of proportional representation)|- public services, such as education, are controlled by the devolved administrations. <br>- Policy and laws governing defence, foreign affairs, immigration, taxation and social security all remain under central UK government control. <br>- The devolved administrations each have their own civil service. <br>- The UK government has the power to suspend all devolved assemblies.|
@@ -135,8 +135,10 @@ Life in the United Kingdom (3rd edition)
 |2007-2010|Gorden Brown|Laber Party|
 | 2010                | no party won the election | Conservative and Liberal Democrat parties formed a coalition led by David Cameron |
 |2012|Diamond Jubilee (60 years as queen)||
+|2015|Queen Elizabeth II became the longest reigning monarch (70 years)| She passed the record set by her great-great-grandmother Queen Victoria (64 years)|
 | 2020| Brexit| quit from EU|
-|2022| Queen Elizabeth II died||
+|2022| Queen Elizabeth II|died|
+|2022|King Charles III| - became king - Prince William (Prince of Wales) is now heir. |
 
 
 ### History facts ###
@@ -156,7 +158,7 @@ Life in the United Kingdom (3rd edition)
 
 | Name | What | Period |
 | --- | --- | --- |
-| William (Duke of Normandy) | Defeats saxon King Harold, **Doomsday Book** (how people lived after Norman Conquest) | 1066 |
+| William (Duke of Normandy) | Defeats saxon King Harold, **Doomsday Book** (how people lived after Norman Conquest - list of towns, villages, people, their animals) | 1066 |
 | King John | **Magna Carta** | 1215 |
 | Kind Edward I | **Statute of Rhuddlan** | 1284 |
 | Robert The Bruce | defeats english Battle of Bannockburn | 1314 |
@@ -174,7 +176,7 @@ Life in the United Kingdom (3rd edition)
 | Oliver Cromwell | Lord Protector during 11 years of Republic | -1658 |
 | Charles II | comes back to be king, interested in science forms Royal Society | -1685 |
 | Sir Edmund Halley | member of Royal Society, predicts the return of the Halley's Comet | - |
-| Isaac Newton | studied at Cambridge, work on Philosophiae Naturalis Principia Mathematica | 1643-1727 |
+| Isaac Newton | Linconshire, studied at Cambridge, work on Philosophiae Naturalis Principia Mathematica | 1643-1727 |
 | James II | brother of CharlesII he is VII of Scotland, favour Catholics | - |
 | William of Orange | husband of Mary elder of the King, invades England defeats James that flees to France, Bills of Rights | - |
 | George I | a german becomes king | 1714- |
@@ -194,12 +196,12 @@ Life in the United Kingdom (3rd edition)
 | Alexander Fleming | discovers **penicillin** nobel prize in 1945 | 1881-1955 |
 | Clement Attlee | PM of Labour government after war, nationalisation of industries and strong welfare | 1883-1967 |
 | William Beveridge | Social insurance and Allied Services, **The Beveridge Report** | 1879-1963 |
-| R. A. Butler |*The Butler Act*, free secondary education | 1902-82 |
+| R. A. (Richard Auston ) Butler |*The Butler Act*, free secondary education | 1902-82 |
 | Dylan Thomas | welsh poet, *Under Milk Wood*and *Do Not Go Gentle into That Good Night* | 1914-53 |
 | John Logie Baird | scotsman to develop **TV** in 1920 and first broadcast London to Glasgow in 1932 | 1888-1946 |
 | Sir Rober Watson-Watt | develops **radar** 1935 | 1892-1973 |
 | Sir Bernard Lovell | astronomy discoveries and build a radio telescope at Jodrell Bank | 1913-2012 |
-| Alan Turing | **Turing Machine** | 1912-54 |
+| Alan Turing | **Turing Machine**  (a theoretical mathematical device - influential in the development of computer science and the modern-day computer.)| 1912-54 |
 | John Macleod | co-discoverer of **insulin** to treat diabetes | 1876-1935 |
 | Francis Crick | one of those awarded the Nobel prize for the discovery of the **structure of the DNA molecule**, in 1953 London and Cambridge universities | 1916-2014 |
 | Sir Frank Whittle | developed **jet engine** in 1930 | 1907-96 |
@@ -209,12 +211,13 @@ Life in the United Kingdom (3rd edition)
 | Sir Ian Wilmot and Keith Campbell | led the team the achieved **cloning** of sheep Dolly | 1944-,1954-2012 |
 | Sir Peter Mansfield | co-inventor of **MRI (magnetic resonance imaging)** scanner | 1933- |
 | Sir Tim Berners-Lee | invented **World Wide Web** in 1990 | 1955- |
-| Mary Peters | from Manchester won a pentathlon Olympic medal in 1972, supports Northen Ireland | 1939- |
+| Mary Peters | from Manchester won a pentathlon Olympic medal in 1972; supports the sport and tourism in Northen Ireland; titled the Dame of the British Empire in 2000 in recognition of her work. | 1939- |
 | Margaret Thatcher | Conservative MP in 1959, became first woman PM in 1979, worked close with Ronald Regan and helped end Cold War | 1925-2013 |
 | Roald Dahl | born in Wales from Norwegians wrote *Charlie and the Chocolate Factory* and *George's Marvellous Medicine* | 1916-90 |
 | James Cook | maps the coast of Australia |
 | George and Robert Stephenson | pioneered the railway engine |
 | St Columba | founded a monastery in the island of Iona off the coast of Scotland |
+|Ernest Rutherford|Split the atom|
 
 ### Sport ###
 
@@ -357,7 +360,13 @@ Skiing
 | David Hockney | important contributor to the *Pop Art* movement of the 1960s |
 
 * The Turner Prize was established in 1984 and celebrates contemporary art.
-
+* Many of the painters working in Britain in the 16th and 17th centuries were from abroad – for example, Hans Holbein and Sir Anthony Van Dyck.
+* Works by British and international artists are displayed in galleries:
+- The National Gallery
+- Tate Britain
+- Tate Modern in London
+- the National Museum in Cardiff
+- the National Gallery of Scotland in Edinburgh.
 
 ### Architecture ###
 
@@ -422,9 +431,8 @@ Skiing
 | Sigfried Sassoon | wrote about his experiences during the war |
 | John Barbour | scottish poet who wrote The Bruce about the Battle of Bannockburn. |
 
-### Literature Facts ###
-
 * in 2003 JRR Tolkien's *Lords of the Rings* is voted country's most loved novel
+
 
 ### Cinema ###
 
@@ -447,15 +455,16 @@ Skiing
 | Kevin MacDonald | directed *Touching the void* |
 | Nik Park | *Wallace and Gromit* animated movies |
 
-### Cinema facts ###
 * Recent British actors to have won Oscars include Colin Firth, Sir Anthony Hopkins, Dame Judi Dench, Kate Winslet and Tilda Swinton.
 * British studios flourished in the 1930s. The 1950s and 1960s were a high point for British comedies, including *Passport to Pimlico*, *The Ladykillers* and, later, the *Carry On *films.
+* two highest-grossing film franchises (Harry Potter and James Bond), have been produced in the UK.
+* Sir Charles (Charlie) Chaplin became famous in silent movies for his tramp character
 
 ## Religion, customs and traditions ##
 
 | Proportion | Religion | Details |
 | --- | --- | --- |
-| 46%  | Christian |- Christmas Day (25 Dec.): the birth of Jesus Christ <br>- Christmas Eve (24 Dec.) <br>- Christmas meals:  roast turkey, Christmas pudding and mince pies <br>- Father Christmas=Santa Claus: brings them presents during the night before Christmas Day <br>- Boxing Day (26 Dec.) <br>- Easter (March or April):  the death of Jesus Christ on Good Friday (public holiday) and his rising from the dead on Easter Sunday (public holiday on Easter Monday). ‘Easter eggs’ are chocolate eggs often given as presents at Easter as a symbol of new life. <br>-Lent: The 40 days before Easter on Ash Wednesday. Christians are marked with an ash cross on their forehead as a symbol of death and sorrow for sin. <br>- Between Lend and Easter: Festing (traditionally) and give something up, like a favourite food (Modern) -Shrove Tuesday or Pancake Day: The day before Lent.People eat pancakes.       |
+| 46%  | Christian |- Christmas Day (25 Dec.): the birth of Jesus Christ <br>- Christmas Eve (24 Dec.) <br>- Christmas meals:  roast turkey, Christmas pudding and mince pies <br>- Father Christmas=Santa Claus: brings them presents during the night before Christmas Day <br>- Boxing Day (26 Dec.) <br>- Easter (March or April):  the death of Jesus Christ on Good Friday (public holiday) and his rising from the dead on Easter Sunday (public holiday on Easter Monday). ‘Easter eggs’ are chocolate eggs often given as presents at Easter as a symbol of new life. <br>-Lent: The 40 days before Easter on Ash Wednesday. Christians are marked with an ash cross on their forehead as a symbol of death and sorrow for sin. <br>- Between Lend and Easter: Festing (traditionally) and give something up, like a favourite food (Modern) -Shrove Tuesday or Pancake Day: The day before Lent. People eat pancakes.       |
 | 6.5%    | Muslim | - Eid al-Fitr (end of Ramadan and they thank Allah for giving them the strength to complete the fast.) and Eid ul Adha (remembers that prophet Ibrahim was willing to sacrifice his son)  |
 | 2%    | Hindu | celebrates Diwali (the Festival of Lights - 5 days in October or November  - victory of good over evil and the gaining of knowledge)  |
 | 1%    | Sikh | Vaisakhi (14 April and celebrates founding of the Sikh community known as the Khalsa), also celebrates Diwali |
@@ -497,7 +506,7 @@ Skiing
 * The Curch of England is known as the **Episcopal** Curch in USA and Scotland and Anglican church anywhere else
   * The monarch is the head
   * the Archbishop of Canterbury is spiritual leader (The monarch has the right to select the Archbishop and other senior church officials, but usually the choice is made by the Prime Minister and a committee appointed by the Church.)
-  * 
+* In Scotland, the national Church is the Church of Scotland, which is a Presbyterian Church. It is governed by ministers and elders.
 
 ## Countries characteristics ##
 
@@ -573,7 +582,7 @@ Skiing
 * Northern Ireland and Scotland have their own banknotes, which are valid everywhere in the UK. However, shops and businesses do not have to accept them.
 * The longest distance on the mainland is about 870 miles (approximately 1,400 kilometres).
 * Pub quizzes are popular. Pool and darts are traditional pub games. Pubs are usually open during the day from 11.00 am (12 noon on Sundays).
-* Some people rent additional land called ‘an allotment’.
+* Some people rent additional land called ‘an allotment’ to grow fruit and vegetable.
 * Famous gardens:
   * England: Kew Gardens, Sissinghurst and Hidcote
   * Scotland: Crathes Castle and Inveraray Castle in Scotland
@@ -586,7 +595,12 @@ Skiing
 *  Swansea is in wales.
 *  Prince Willian : is the heir to throne
 *  Slave trade: west africa
-*  
+*  New citizens swear or affirm loyalty to the Queen as part of the citizenship ceremony.
+* EU members: 27
+* The Council of Europe: 47 member countries; responsible for the protection and promotion of human rights; no power to make laws but draws up conventions and charters, the most well-known of which is the European Convention on Human Rights and Fundamental Freedoms, usually called the European Convention on Human Rights.
+* A Northern Ireland Parliament was established in 1922, when Ireland was divided, but it was abolished in 1972, shortly after the Troubles broke out in 1969. The Northern Ireland Assembly was established soon after the Belfast Agreement (or Good Friday Agreement) in 1998.
+* Prior to Brexit, adult citizens of other EU states who are resident in the UK could vote in all elections except General Elections. As of 2020, EU citizens’ local voting rights have also changed and are now set on individual, per-country basis.
+* Swinging Sixties: decade of the 1960s was a period of significant social change. There was growth in British fashion, cinema and popular music. Two well-known pop music groups at the time were The Beatles and The Rolling Stones. People started to become better off and many bought cars and other consumer goods. It was also a time when social laws were liberalised, for example in relation to divorce and to abortion in England, Wales and Scotland.
 
 ## National Anthem ##
 Starts with:
@@ -606,7 +620,7 @@ Starts with:
 
 ## Government ##
 
-Devolved administrations
+Devolved administrations (parliaments in Scotland, Wales and Northern Ireland)
 
 | Name | Creation | Members | NMembers | Details |
 | --- | --- | --- | --- | --- |
@@ -628,7 +642,7 @@ These ministers form the cabinet, a committee which usually meets weekly. Each d
 *The opposition: The second-largest party in the House of Commons. The leader of the opposition usually becomes Prime Minister if his or her party wins the next General Election. They challenges PM at Prime Minister’s Questions, which takes place every week while Parliament is sitting. The leader of the opposition also appoints senior opposition MPs to be ‘shadow ministers’. They form the shadow cabinet and their role is to challenge the government and put forward alternative policies.
 * Pressure and lobby groups: are organisations which try to influence government policy such as the CBI (Confederation of British Industry) which represents the views of British busines, the environment (for example, Greenpeace) or human rights (for example, Liberty).
 * The civil service: support the government in developing and implementing its policies. They also deliver public services. Civil servants are accountable to ministers. They are chosen on merit and are politically neutral – they are not political appointees.
-* Local governments=councils=local authorities: - For towns, cities and rural areas- They are funded by money from central government and by local taxes. - London has 33 local authorities, with the Greater London Authority and the Mayor of London coordinating policies across the capital. - Usually council elections are held every year.
+* Local governments=councils=local authorities: - For towns, cities and rural areas- They are funded by money from central government and by local taxes. - London has 33 local authorities, with the Greater London Authority and the Mayor (the ceremonial leader of the council) of London coordinating policies across the capital. - Usually council elections are held every year.
 * Proceedings in Parliament are published in official reports called Hansard.
 * The electoral register: To vote! Britain: You can register by contacting your local council. www.aboutmyvote.co.uk to find your local council. Northern Ireland: A system called ‘individual registration’ and all those entitled to vote must complete their own registration form.
 * People vote in elections at places called polling stations, or polling places in Scotland.Before the election you will be sent a poll card. This tells you where your polling station or polling place is and when the election will take place. On election day, the polling station or place will be open from 7.00 am until 10.00 pm.When you arrive at the polling station, the staff will ask for your name and address. In Northern Ireland you will also have to show photographic identification. - You can also vote using postal ballot.
@@ -636,7 +650,7 @@ These ministers form the cabinet, a committee which usually meets weekly. Each d
 * Visiting the UK parliment: - write to your local MP in advance to ask for tickets - you can queue on the day at the public entrance (free)
 * the Commonwealth has 54 member states. Membership is voluntary. The Commonwealth has no power over its members, although it can suspend membership.
 * the United Nations (UN): 190 members. The UN was set up after the Second World War and aims to prevent war and promote international peace and security.
-* the UN Security Council: recommends action when there are international crises and threats to peace. <br>- The UK is one of five permanent members of the Security Council.
+* the UN Security Council: recommends action when there are international crises and threats to peace. <br>- 15 countries, 10 non-permanent elected for two-years and 5 permanent ones <br>- The UK is one of five permanent members of the Security Council (China, France, Russian Federation, the United Kingdom, and the United States).
 * NATO: It also aims to maintain peace between all of its members.
 * The House of Lords can suggest amendments or propose new laws, which are then discussed by MPs. It checks laws that have been passed by the House of Commons to ensure they are fit for purpose. It also holds the government to account to make sure that it is working in the best interests of the people.
 * Since 1958, the Prime Minister has had the power to nominate peers just for their own lifetime. These are called life peers. They have usually had an important career in politics, business, law or another profession. Life peers are appointed by the monarch on the advice of the Prime Minister.
@@ -648,8 +662,8 @@ These ministers form the cabinet, a committee which usually meets weekly. Each d
     * debate important national issues
 * As well as getting the right to vote, people on the electoral register are randomly selected to serve on a jury. Anyone who is on the electoral register and is aged **18 to 70** can be asked to do this.
 * In November 2012, the public elected Police and Crime Commissioners (PCCs) in England and Wales.
-* canvassing: members of political parties who are handing out leaflets in the street or by knocking on people’s doors and asking for their support or to persuade people to vote for their candidates.
-
+* canvassing: members of political parties who are handing out leaflets in the street or by knocking on people’s doors and asking for their support or to persuade people to vote for their candidates. Persuade people to vote for the party they represent.
+* The Monarch has ceremonial roles such as appointing the government and the opening of the new parliamentary session each year. On this occasion the Monarch makes a speech which summarises the government’s policies for the year ahead. All Acts of Parliament are made in her/his name.
 
 
 

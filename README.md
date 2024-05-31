@@ -669,9 +669,16 @@ These ministers form the cabinet, a committee which usually meets weekly. Each d
 
 ## Judicial systems and law ##
 * Laws are divided into
-  * criminal law: investigated by the police or another authority such as a council, and which are punished by the courts - Carrying a weapon. Drugs, Racial crime, Selling tobacco, Smoking in public places, Buying alcohol, Drinking in public, Female genital mutilation (FGM) which is also known as cutting or female circumcision, Forced marriage, drive without insurance, not to have an MOT certificate if your vehicle is more than three years old
-  * civil law: disputes between individuals or groups - Housing law, Consumer rights, Employment law, Debt).
-* Police: - Independent of the government - headed by Chief Constables -Police and Crime Commissioners (PCCs) in England and Wales: sets local police priorities and the local policing budget. They also appoint the Chief Constable - elected by a public election - Police Officers are supported by police community support Officers (PSCOs). PSCOs have different roles according to the area but usually patrol the streets, work with the public, and support police Officers at crime scenes and major events. - complaint about the police: 1) going to a police station, 2) writing to the Chief Constable and 3) Independent Police Complaints Commission in England and Wales, the Police Complaints Commissioner for Scotland or the Police Ombudsman for Northern Ireland.
+  * criminal law: investigated by the police or another authority such as a council, and which are punished by the courts
+    - Carrying a weapon. Drugs, Racial crime, Selling tobacco, Smoking in public places, Buying alcohol, Drinking in public, Female genital mutilation (FGM) which is also known as cutting or female circumcision, Forced marriage, drive without insurance, not to have an MOT certificate if your vehicle is more than three years old
+  * civil law: disputes between individuals or groups
+    - Housing law, Consumer rights, Employment law, Debt
+* Police:
+  - Independent of the government
+  - headed by **Chief Constables**
+  - **Police and Crime Commissioners (PCCs)** elected by a public election in England and Wales: sets local police priorities and the local policing budget. They also appoint the Chief Constable
+  - **Police Officers** are supported by **police community support Officers (PSCOs)**. PSCOs have different roles according to the area but usually patrol the streets, work with the public, and support police Officers at crime scenes and major events.
+  - complaint about the police: 1) going to a police station, 2) writing to the Chief Constable and 3) Independent Police Complaints Commission in England and Wales, the Police Complaints Commissioner for Scotland or the Police Ombudsman for Northern Ireland.
 
 Criminal courts
 * Adult's Minor criminal:
@@ -709,8 +716,9 @@ Civil courts
   * Scotland: in the Court of Session
 
 The Small claims: an informal way of helping people to settle minor disputes without spending a lot of time and money using a lawyer - The hearing is held in front of a judge in an ordinary room, and people from both sides of the dispute sit around a table
-* England and Wales: less than £5,000
-* Scotland and Northern Ireland: less than £3,000
+* England and Wales: less than £10,000
+* Scotland: less than £5,000
+* Northern Ireland: less than £3,000
 
 Solicitors
 - They advertise in local newspapers and in Yellow Pages

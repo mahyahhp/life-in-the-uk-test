@@ -490,6 +490,48 @@ These ministers form the cabinet, a committee which usually meets weekly. Each d
 * the United Nations (UN): 190 members. The UN was set up after the Second World War and aims to prevent war and promote international peace and security.
 * the UN Security Council: recommends action when there are international crises and threats to peace. <br>- The UK is one of five permanent members of the Security Council.
 * NATO: It also aims to maintain peace between all of its members.
+* Laws are divided into criminal law (investigated by the police or another authority such as a council, and which are punished by the courts; Carrying a weapon. Drugs, Racial crime, Selling tobacco, Smoking in public places, Buying alcohol, Drinking in public) and civil law (disputes between individuals or groups; Housing law, Consumer rights, Employment law, Debt).
+* Police: - Independent of the government - headed by Chief Constables -Police and Crime Commissioners (PCCs) in England and Wales: sets local police priorities and the local policing budget. They also appoint the Chief Constable - elected by a public election - Police Officers are supported by police community support Officers (PSCOs). PSCOs have different roles according to the area but usually patrol the streets, work with the public, and support police Officers at crime scenes and major events. - complaint about the police: 1) going to a police station, 2) writing to the Chief Constable and 3) Independent Police Complaints Commission in England and Wales, the Police Complaints Commissioner for Scotland or the Police Ombudsman for Northern Ireland.
+* Criminal courts
+  * Adult's Minor criminal:
+     * England, Wales: in Magistrates’ Court - Magistrates are Unpaid and do not need legal qualifications - supported by a legal adviser
+    * North Ireland:  in Magistrates’ Court - Magistrates are District Judges or Deputy District Judges, who are legally qualified and paid
+     * Scotland: in Justice of the Peace Court (JP court) - JPs are unpaid and do not need legal qualifications - supported by a legal adviser
+  * * Adult's Major criminal
+    * In England, Wales and Northern Ireland: in Crown Court - in front of a judge and a jury
+    * In Scotland:
+      * Not very serious cases: in Sheriff Court - in front of a sheriff or a sheriff with a jury
+      * Mos serious cases such as murder: In a High Court with a judge and jury
+  * Youth's minor criminal
+    * In England, Wales and Northern Ireland: in Youth Court - in front of up to three specially trained magistrates or a District Judge
+    * In Scotland: in Children’s Hearings System
+  * Youth's major (serious) criminal
+    * In England, Wales and Northern Ireland: In Crown Court
+    * In Scotland: in Children’s Hearings System
+
+* Members of the public are not allowed in Youth Courts, and the name or photographs of the accused young person cannot be published in newspapers or used by the media.
+* Northern Ireland has a system of **youth conferencing** to consider how a child should be dealt with when they have committed an offence.
+* Jury's verdict: - England, Wales and Northern Ireland: ‘guilty’ or ‘not guilty’ - Scotland: ‘guilty’, ‘not guilty’ or ‘not proven’
+* Jury: - made up of members of the public chosen at random from the local electoral register. - England, Wales and Northern Ireland 12 members, Scotland 15 members - If the jury finds a defendant "guilty", the judge decides on the penalty.
+
+Civil courts
+* Minor cases: people trying to get back money that is owed to them, cases involving personal injury, family matters, breaches of contract, and divorce 
+  * England, Wales and Northern Ireland: in County Courts
+  * Scotland: in Sheriff Court
+* Major cases: More serious civil cases – for example, when a large amount of compensation is being claimed
+  * England, Wales and Northern Ireland: in the High Court
+  * Scotland: in the Court of Session
+
+The Small claims: an informal way of helping people to settle minor disputes without spending a lot of time and money using a lawyer - The hearing is held in front of a judge in an ordinary room, and people from both sides of the dispute sit around a table
+* England and Wales: less than £5,000
+* Scotland and Northern Ireland: less than £3,000
+
+Solicitors: 
+- They advertise in local newspapers and in Yellow Pages
+- The Citizens Advice Bureau: to get names of local solicitors and which areas of law they specialise in
+- Solicitors’ charges are usually based on how much time they spend on a case
+
+
 * The House of Lords can suggest amendments or propose new laws, which are then discussed by MPs. It checks laws that have been passed by the House of Commons to ensure they are fit for purpose. It also holds the government to account to make sure that it is working in the best interests of the people.
 * Since 1958, the Prime Minister has had the power to nominate peers just for their own lifetime. These are called life peers. They have usually had an important career in politics, business, law or another profession. Life peers are appointed by the monarch on the advice of the Prime Minister.
 * Since 1999, hereditary peers have lost the automatic right to attend the House of Lords. The Reform Act of 1832 had greatly increased the number of people with the right to vote. The Act also abolished the old pocket and rotten boroughs and more parliamentary seats were given to the towns and cities.

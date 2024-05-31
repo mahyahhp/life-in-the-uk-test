@@ -16,7 +16,7 @@ Life in the United Kingdom (3rd edition)
 | 600                  | Anglo-Saxons | -Parts of the west of Britain, including much of what is now Wales, and Scotland, remained free of Anglo-Saxon rule. <br>- The burial place of one of the kings was at Sutton Hoo in modern Suffolk.|
 |600-789 | |- Anglo-Saxons became christants <br>- St Patrick, Missionary from Ireland spread the religion in the north (patron saint of Ireland)<br>- St Columba, missionary in Scotland. <br>- St Augustine led missionaries from Rome, who spread Christianity in the south (England) and he became the first Archbishop of Canterbury. |
 | 789                 | Vikings coming | - Came from Norway and Denmark <be>- Began to stay and form their own communities in the east of England and Scotland <br>- Defeated by King Alfred the Great, an English Anglo-Saxon king -<br> Defeated vikings stayed in the east and north of England, in an area known as the Danelaw -<br> Vikings ruled England for a short perioed by a Danish king who was Cnut (also called Canute). <br> Kenneth MacAlpin: King in Scotland to defend Vikings|
-| 1066                | Normans | William the Conqueror (Duke of Normandy in what is now northern France) wins Battle of Hastings and defeates Harold, the Saxon king of England. <br>- The battle of Hastings is commemorated in a great piece of embroidery, known as the **Bayeux Tapestry**, which can still be seen in France today. <br>-  The last successful foreign invasion of England. <br>- Norman French influenced the development of the English language as we know it today. <br>- Not successful to conquer Wales and Scotland (only England). <br>- Feudalism: King gives land to his lords (landowners and they called clans in Scotland) -> lords give a small area to peasants (serfs) and in return they should work for lords and fight for kings|
+| 1066                | Normans | William the Conqueror (Duke of Normandy in what is now northern France) wins Battle of Hastings and defeates Harold, the Saxon king of England. <br>- The battle of Hastings is commemorated in a great piece of embroidery (70 m tall), known as the **Bayeux Tapestry**, which can still be seen in France today. <br>-  The last successful foreign invasion of England. <br>- Norman French influenced the development of the English language as we know it today. <br>- Not successful to conquer Wales and Scotland (only England). <br>- Feudalism: King gives land to his lords (landowners and they called clans in Scotland) -> lords give a small area to peasants (serfs) and in return they should work for lords and fight for kings|
 |1066-1485 | Middle Ages (the medieval period) |- It was a time of almost constant war. In UK: English kings trying to conquer Wales, Scotland and Ireland. Out UK: Many knights took part in the Crusades, in which European Christians fought for control of the Holy Land. English kings also fought a long war with France, called the Hundred Years War (even though it actually lasted 116 years) <br>- Parliament began to develop into the institution it is today (king’s council of advisers, which included important noblemen and the leaders of the Church) <br>- The king and his noblemen had spoken Norman French and the peasants had continued to speak Anglo-Saxon. Gradually these two languages combined to become one English language. Some words in modern English – for example, ‘park’ and ‘beauty’ – are based on Norman French words. Others – for example, ‘apple’, ‘cow’ and ‘summer’ – are based on Anglo-Saxon words. In modern English there are often words with very similar meanings, one from French and one from Anglo-Saxon. ‘Demand’ (French) and ‘ask’ (Anglo-Saxon) are examples. <br>- Castles: Windsor and Edinburgh <br>- Cathedrals: Lincoln Cathedral and York Minster (famous for windows of stained glass, telling stories about the Bible and Christian saints) <br>- English wool became a very important export. <br>- People came to England from France as weavers, Germany as engineers, Italy as glass manufacturers and from Holland as canal builders.|
 | 1200                |English ruled an area of Ireland| - The area known as the Pale, around Dublin.|
 | 1215                | Magna Carta (means the Great Charter) | - The King is subject to the Law. It protected the rights of the nobility and restricted the king’s power to collect taxes or to make or change laws. <br>- In England, parliaments were two separate parts, known as Houses 1) the House of Lords: The nobility, great landowners and bishops 1) the House of Commons: Knights (usually smaller landowners and wealthy people from towns and cities) <br>- In Scotland, parliments were three separate parts, known as Estates: 1) the lords, 2) the commons and 3) the clergy. <br>-The principle that judges are independent of the government began to be established. <br>- In England: judges developed ‘common law’ by a process of precedence and tradition (following previous decisions). <br>- In Scotland, in the legal system the laws were ‘codified’ (written down).| 
@@ -56,7 +56,7 @@ Life in the United Kingdom (3rd edition)
 | 1695                | Newspaper | - development of a free press (newspapers and other publications which are not controlled by the government) |
 | 1707                | The Act of Treaty or Union in Scotland | - Uder rulling queen Anne- Kingdom of Great Britain is created joining Scotland <br>- Although Scotland was no longer an independent country, it kept its own legal and education systems and Presbyterian Church.|
 | 1714                | King George I | - Queen Anne, had no surviving children and George I was her nearest nearest Protestant relative. <br>- A german is king, because of his poor english elects Robert Walpole as first Prime Minister (from 1721 to 1742). |
-| 1745-1746           | Charles Edward Stuart (Bonnie Prince Charlie) | - was the grandson of James II, tries to get the throne with scots' help but looses at the battle of Culloden from George II (son of George I) and escaped to France <br>-  Highland Cleareances process began: Many Scottish landlords destroyed individual small farms (known as ‘crofts’) to make space for large flocks of sheep and cattle. Many Scottish people left for North America at this time. |
+| 1745-1746           | Charles Edward Stuart (Bonnie Prince Charlie) | - was the grandson of James II, tries to get the throne with scots' help but looses at the battle of Culloden from George II (son of George I) and escaped to France <br>- Clans lost their power <br>-  Highland Cleareances process began: Many Scottish landlords destroyed individual small farms (known as ‘crofts’) to make space for large flocks of sheep and cattle. Many Scottish people left for North America at this time. |
 |1700-1800| The Enlightenment| - During the 18th century, new ideas about politics, philosophy and science were developed. This is often called ‘the Enlightenment’. Many of the great thinkers of the Enlightenment were Scottish. Adam Smith developed ideas about economics which are still referred to today. David Hume’s ideas about human nature continue to influence philosophers. Scientific discoveries, such as James Watt’s work on steam power, helped the progress of the Industrial Revolution. One of the most important principles of the Enlightenment was that everyone should have the right to their own political and religious beliefs and that the state should not try to dictate to them.|
 |1700-1900| The Industrial Revolution|- the rapid development of industry <br>- It happened because of the development of machinery and the use of steam power. <br>- The development of the Bessemer process for the mass production of steel led to the development of the shipbuilding industry and the railways. <br>- Manufacturing jobs became the main source of employment in Britain. <br>- Poor working conditions, even for children, with long working hours in dangerous condition without law support. <br>- time of increased colonisation overseas: Captain James Cook mapped the coast of Australia and a few colonies were established there. Britain gained control over Canada, and the East India Company, originally set up to trade, gained control of large parts of India. Colonies began to be established in southern Africa. <br>- Sugar and tobacco came from North America and the West Indies; textiles, tea and spices came from India and the area that is today called Indonesia. <br>- Better transport: new canals|
 | 1776                | American colonies independence | - colonies said: ‘no taxation without representation’ - 13 colonies declare independence from UK | 
@@ -81,8 +81,9 @@ Life in the United Kingdom (3rd edition)
 |1867|another Reform Act|- By Campaigners called the Chartists <br>- This created many more urban seats in Parliament and reduced the amount of property that people needed to have before they could vote. However, the majority of men still did not have the right to vote and no women could vote.|
 |1870| Acts of Parliament| - gave wives the right to keep their own earnings and property (not belonging to husband.)|
 |1889| Women’s Franchise League| - to get the vote in local elections for married women by Emmeline Pankhurst|
-| 1899-1902           | Boer Wars | - The British went to war in South Africa with settlers from the Netherlands called the Boers. |
+|1895                 |National Trust was founded| - charities that work to preserve important buildings, coastline and countryside in the UK and started by 4 volunteers - now more than 61,000 volunteers |
 | 1896                | first public screening of movies | |
+| 1899-1902           | Boer Wars | - The British went to war in South Africa with settlers from the Netherlands called the Boers. |
 | 1902                | Motor-car racing in the UK started |
 |1903|Women’s Social and Political Union (WSPU)| - This was the first group whose members were called ‘suffragettes'  by Emmeline Pankhurst <br>- protest to gain the vote for women|
 |1913|Home Rule promissed to Ireland|-have a self-governing Ireland with its own parliament but still part of the UK  |
@@ -113,6 +114,7 @@ Life in the United Kingdom (3rd edition)
 | 1948                | NHS | by minister Aneurin (Nye) Bevan |
 | 1949                | Republic of Ireland | |
 |1950| Harold Macmillan| -  was famous for his ‘wind of change’ speech about decolonisation and independence for the countries of the Empire.|
+|1950|European Convention on Human Rights | UK signed it|
 | 1951-1964           | Conservative Government | -Winston Churchill returned as Prime Minister <br>- probably in this period Beveridge report (Social Insurance and Allied Services)  and Butler with free secondary education |
 | 1952 |Queen Elizabeth II has reigned||
 | 1957                | EEC | - European Economic Community <br>- the Treaty of Rome : et up by six western European countries (Belgium, France, Germany, Italy, Luxembourg and the Netherlands) -  |
@@ -121,7 +123,7 @@ Life in the United Kingdom (3rd edition)
 | 1969|voting age was reduced to 18 for men and women||
 | 1969                | The Troubles | in Northen Ireland, 3000 people died those years, women and men can vote at 18 |
 | 1972                | Northen Ireland parliament was abolished | |
-| 1973                | UK joins EEC | |
+| 1973                | UK joins EEC/EU | |
 | 1990                | WWW | Sir Tim Berners-Lee | 
 | 1990                | UK wars | help liberate from Iraqi invasion of Kuwait and Former Republic of Yugoslavia |
 | 1997                | Tony Blair | Labour government, creates Scottish Parliament and Welsh Assembly |
@@ -132,7 +134,7 @@ Life in the United Kingdom (3rd edition)
 | 2009                | Britain leaves Iraq | |
 | 2010                | no party won the election | Conservative and Liberal Democrat parties formed a coalition led by David Cameron |
 |2012|Diamond Jubilee (60 years as queen)||
-| 2020| Brexit||
+| 2020| Brexit| quit from EU|
 |2022| Queen Elizabeth II died||
 
 
@@ -255,6 +257,36 @@ Life in the United Kingdom (3rd edition)
 | Sir William Walton | wrote music for George VI and Elizabeth II, wrote from films scores to opera, best known for *Facade* that became a ballet and *Belshazzar's Feast*, intended to be sung by a large choir |
 | Benjamin Britten | operas, *Peter Grimes* and *Billy Budd*, *A young Person's Guide to the Orchestra* |
 
+| Event name | Details |
+| --- | --- |
+|Proms |- 8 week in summer <br>- orchestral classical music <br>- in Royal Albert Hall in London <br>- rganised by the British Broadcasting Corporation (BBC) since 1927 |
+|Wembley Stadium|music event in London|
+|The O2|music event in Greenwich, south-east London|
+|Scottish Exhibition and Conference Centre (SECC)|music event in Glasgow|
+|Glastonbury|music festival|
+|the Isle of Wight Festival |music festival|
+|the V Festival|music festival|
+|The National Eisteddfod of Wales|annual cultural festival which includes music, dance, art|
+|Mercury Music Prize|the best album from the UK and Ireland|
+|The Brit Awards|best British solo and group artists|
+
+
+
+### Theatre ###
+| Theater | Name | Genres| Artists |Year | details|
+| --- | --- | --- | --- | --- | --- |
+|London’s West End (known as ‘Theatreland’)|Mousetrap| murder-mystery| play by Dame Agatha Christie| since 1952| longest initial run of any show in history|
+||<br>- HMS Pinafore <br>- The Pirates of Penzance <br>- The Mikado|comic operas (often making fun of popular culture and politics)|Gilbert and Sullivan|19th century|has written the music for shows|
+||- Jesus Christ Superstar (in collaboration with Tim Rice) <br>- Evita (in collaboration with Tim Rice) <br>-Cats  <br>-The Phantom of the Opera ||Andrew Lloyd Webber|recently||
+||Dame (a woman played by a man)|pantomime|||- Many theatres produce a pantomime at Christmas time and this is a British tradition. They are based on fairy stories and are light-hearted plays with music and comedy. |
+
+* The Edinburgh Festival: A series of different arts and cultural festivals in Edinburgh;
+  * The biggest and most well-known being the Edinburgh Festival Fringe (‘the Fringe’). The Fringe is a showcase of mainly theatre and comedy performances.
+
+* The Laurence Olivier Awards: in London. best director, best actor and best actress; The awards are named after the British actor Sir Laurence Olivier because of his roles in various Shakespeare plays.
+
+
+
 ### Art ###
 
 | Name | Achievement |
@@ -270,6 +302,9 @@ Life in the United Kingdom (3rd edition)
 | Lucian Freud | German born British artist best know for his portraits |
 | David Hockney | important contributor to the *Pop Art* movement of the 1960s |
 
+* The Turner Prize was established in 1984 and celebrates contemporary art.
+
+
 ### Architecture ###
 
 | Name | Achievement |
@@ -284,6 +319,8 @@ Life in the United Kingdom (3rd edition)
 | Lancelot 'Capability' Brown | designed country houses lands | 
 | Gertrude Jekyll | worked with Lutyens to design colourful gardens |
 
+* In the 19th century, the medieval ‘gothic’ style became popular again.
+
 ### Fashion and Design ###
 
 | Name | Achievement |
@@ -296,7 +333,7 @@ Life in the United Kingdom (3rd edition)
 | Vivienne Westwood | leading fashion designer |
 
 
-### Literature ###
+### Literature and poets ###
 
 | Name | Achievement |
 | --- | --- |
@@ -329,7 +366,7 @@ Life in the United Kingdom (3rd edition)
 | William Blake | *The Tyger* |
 | Wilfred Owen | *Anthem for Doomed Youth*, also wrote about his experiences during the war |
 | Sigfried Sassoon | wrote about his experiences during the war |
-| John Barbour | scottish poet |
+| John Barbour | scottish poet who wrote The Bruce about the Battle of Bannockburn. |
 
 ### Literature Facts ###
 
@@ -360,31 +397,62 @@ Life in the United Kingdom (3rd edition)
 * Recent British actors to have won Oscars include Colin Firth, Sir Anthony Hopkins, Dame Judi Dench, Kate Winslet and Tilda Swinton.
 * British studios flourished in the 1930s. The 1950s and 1960s were a high point for British comedies, including *Passport to Pimlico*, *The Ladykillers* and, later, the *Carry On *films.
 
-## Religion ##
+## Religion, customs and traditions ##
 
 | Proportion | Religion | Details |
 | --- | --- | --- |
-| 70%  | Christian |
-| 4%    | Muslim | Eid al-Fitr(end of Ramadan) and Eid ul Adha(remembers that prophet Ibrahim was willing to sacrifice his son) are festivals celebrated by Islam |
-| 2%    | Hindu | celebrates Diwali |
-| 1%    | Sikh | Vaisakhi festival celebrated on 14th of April, also celebrates Diwali |
-| 0.5% | Jews/Buddhist | Hannuka is a Jew celebration in November or December and lasts 8 days |
+| 46%  | Christian |- Christmas Day (25 Dec.): the birth of Jesus Christ <br>- Christmas Eve (24 Dec.) <br>- Christmas meals:  roast turkey, Christmas pudding and mince pies <br>- Father Christmas=Santa Claus: brings them presents during the night before Christmas Day <br>- Boxing Day (26 Dec.) <br>- Easter (March or April):  the death of Jesus Christ on Good Friday (public holiday) and his rising from the dead on Easter Sunday (public holiday on Easter Monday). ‘Easter eggs’ are chocolate eggs often given as presents at Easter as a symbol of new life. <br>-Lent: The 40 days before Easter on Ash Wednesday. Christians are marked with an ash cross on their forehead as a symbol of death and sorrow for sin. <br>- Between Lend and Easter: Festing (traditionally) and give something up, like a favourite food (Modern) -Shrove Tuesday or Pancake Day: The day before Lent.People eat pancakes.       |
+| 6.5%    | Muslim | - Eid al-Fitr (end of Ramadan and they thank Allah for giving them the strength to complete the fast.) and Eid ul Adha (remembers that prophet Ibrahim was willing to sacrifice his son)  |
+| 2%    | Hindu | celebrates Diwali (the Festival of Lights - 5 days in October or November  - victory of good over evil and the gaining of knowledge)  |
+| 1%    | Sikh | Vaisakhi (14 April and celebrates founding of the Sikh community known as the Khalsa), also celebrates Diwali |
+| 0.5% | Jews/Buddhist | - Hannuka; 8 days in November or December; It is to remember the Jews’ struggle for religious freedom.   |
 | 2%    | Other |
-| 21%  | No religion |
+| 37%  | No religion |
+
+* New Year's Day: 1 January and public holiday
+* 2nd January: Only in Scotland is a public holiday
+* New Year’s Eve or Hogmanay(in Scotland): 31 December, People usually celebrate the new year on the night of this day
+* Valentine’s Day: 14 February and lovers exchange cards
+* April Fool’s Day: 1 April and people play jokes on each other until midday
+* Mothering Sunday (or Mother’s Day): the Sunday three weeks before Easter
+* Father’s Day: the third Sunday in June
+* Halloween: 31 October, is an ancient festival and has roots in the pagan festival to mark the beginning of winter. Young people will often dress up in frightening costumes to play ‘trick or treat’. People give them treats to stop them playing tricks on them.
+* Bonfire Night: 5 November celebrated by fireworks. The origin of this celebration was an event in 1605, when a group of Catholics led by Guy Fawkes failed in their plan to kill the Protestant king with a bomb in the Houses of Parliament.
+* Remembrance Day: 11 November, commemorates those who died fighting for the UK and its allies in the First World War. People wear poppies (the red flower). At 11.00 am there is a two-minute silence and wreaths are laid at the Cenotaph in Whitehall, London.
+* Bank holidays: public holidays when banks and many other businesses are closed for the day
+  * Early May: Early May Bank Holiday
+  * Late May or early June: Spring Bank Holiday
+  * Late August: Summar Bank Holiday
+* anniversary of the Battle of the Boyne: Only in Northern Ireland in 12 July when the army of Catholic King James II was destroyed.
+
+### Plcaes of interest ###
+* 15 national parks
+* Big Ben: nickname for the great bell of the clock at the Houses of Parliament in London; over 150 years old; The clock tower is named ‘Elizabeth Tower’ in honour of Queen Elizabeth II’s Diamond Jubilee in 2012.
+* The Eden Project: in Cornwall; giant greenhouses (plants from all over the world) and international charity (runs environmental and social projects);
+* The Castle: in Edinburgh; early Middle Ages. looked after by Historic Scotland, a Scottish government agency.
+* Giant’s Causeway: is a land formation of columns made from volcanic lava (50 million years ago)
+* Loch Lomond and the Trossachs National Park: National park in the west of Scotland. The largest expanse of fresh water in mainland Britain.
+* The London Eye:  Situated on the southern bank of the River Thames and is a Ferris wheel that is 443 feet (135 metres) tall. It was originally built as part of the UK’s celebration of the new millennium and continues to be an important part of New Year celebrations.
+* Snowdonia: A national park in North Wales. Its most well-known landmark is Snowdon, which is the highest mountain in Wales.
+* The Tower of London:was first built by William the Conqueror after he became king in 1066. Tours are given by the Yeoman Warders, also known as Beefeaters, who tell visitors about the building’s history. People can also see the Crown Jewels there.
+* The Lake District: largest national park. The biggest stretch of water is Windermere. In 2007, television viewers voted Wastwater as Britain’s favourite view.
 
 ### Religion facts ###
 
 * Protestant Christian groups are: Baptists Methodists,  **Presbyterians(Scotland)** and Quakers
-* The Curch of England is known as the **Episcopal** Curch in USA and Scotland
+* The Curch of England is known as the **Episcopal** Curch in USA and Scotland and Anglican church anywhere else
+  * The monarch is the head
+  * the Archbishop of Canterbury is spiritual leader (The monarch has the right to select the Archbishop and other senior church officials, but usually the choice is made by the Prime Minister and a committee appointed by the Church.)
+  * 
 
 ## Countries characteristics ##
 
 | Country | Population | Day | Saint | Flower | Food |
 | --- | --- | --- | --- | --- | --- |
 | Wales | 5% | 1st March | St David| Daffodil | welsh cakes (flour dried fruits and spices) |
-| North Ireland | <3% | 17th March | St Patrick | Shamrock | Ulster fry (bacon, eggs, sausage, black pudding, white pudding, tomatoes, mushrooms, soda bread and potato bread) |
+| North Ireland | <3% | 17th March (official holiday) | St Patrick | Shamrock | Ulster fry (bacon, eggs, sausage, black pudding, white pudding, tomatoes, mushrooms, soda bread and potato bread) |
 | England | 84% | 23rd April | St George | Rose | roast beef (served with potatoes, vegetables), Yorkshire puddings, fish and chips, fish and chips |
-| Scotland | 8% | 30th November | St Andrew | Thisle | haggis (sheep's stomach stuffed with offal, suet, onions and oatmeal) | haggis (sheep's stomach stuffed with offal, suet, onions and oatmeal) |
+| Scotland | 8% | 30th November (official holiday) | St Andrew | Thisle | haggis (sheep's stomach stuffed with offal, suet, onions and oatmeal) | haggis (sheep's stomach stuffed with offal, suet, onions and oatmeal) |
 
 ### Numbers ###
 
@@ -439,6 +507,30 @@ Life in the United Kingdom (3rd edition)
 * The chairperson of the General Assembly of the Church of Scotland is the **Moderator**, who is appointed for **one year** only and often speaks on behalf of that Church.
 * Big Ben is the nickname for the great bell of the clock at the Houses of Parliament in London. Many people call the clock Big Ben as well. The clock is over 150 years old and is a popular tourist attraction. The clock tower is named ‘Elizabeth Tower’ in honour of Queen Elizabeth II’s **Diamond Jubilee in 2012**.
 * Serious civil cases are dealt in the **High Court** in England, Wales and Northern Ireland and for Scotland, in the **Court of Session in Edinburgh**
+* British charities:
+  * British Red Cross: international charity
+  * Age UK: older people
+  * National Society for the Prevention of Cruelty to **Children** (NSPC**C**): children
+  * Crisis and Shelter: homeless
+  * Cancer Research UK: medical research
+  * National Trust and Friends of the Earth: environmental
+  * People’s Dispensary for Sick **Animals** (PDS**A**): animals
+  * National Citizen Service programme: gives 16- and 17-year-olds the opportunity to enjoy outdoor activities, develop their skills and take part in a community project.
+* Northern Ireland and Scotland have their own banknotes, which are valid everywhere in the UK. However, shops and businesses do not have to accept them.
+* The longest distance on the mainland is about 870 miles (approximately 1,400 kilometres).
+* Pub quizzes are popular. Pool and darts are traditional pub games. Pubs are usually open during the day from 11.00 am (12 noon on Sundays).
+* Some people rent additional land called ‘an allotment’.
+* Famous gardens:
+  * England: Kew Gardens, Sissinghurst and Hidcote
+  * Scotland: Crathes Castle and Inveraray Castle in Scotland
+  * Wales: Bodnant Garden
+  * Northern Ireland: Mount Stewart
+*  People over 75 can apply for a free TV licence and blind people can get a 50% discount. You will receive a fine of up to £1,000 if you watch TV but do not have a TV licence.
+*  Pupular TV programmes are:  soap operas such as Coronation Street and EastEnders.
+*  The traditions of comedy and satire, and the ability to laugh at ourselves, are an important part of the UK character.
+*  10% of population has parents/grandparents out of the UK
+*  Swansea is in wales.
+*  
 
 ## National Anthem ##
 Starts with:
@@ -484,35 +576,59 @@ These ministers form the cabinet, a committee which usually meets weekly. Each d
 * Proceedings in Parliament are published in official reports called Hansard.
 * The electoral register: To vote! Britain: You can register by contacting your local council. www.aboutmyvote.co.uk to find your local council. Northern Ireland: A system called ‘individual registration’ and all those entitled to vote must complete their own registration form.
 * People vote in elections at places called polling stations, or polling places in Scotland.Before the election you will be sent a poll card. This tells you where your polling station or polling place is and when the election will take place. On election day, the polling station or place will be open from 7.00 am until 10.00 pm.When you arrive at the polling station, the staff will ask for your name and address. In Northern Ireland you will also have to show photographic identification. - You can also vote using postal ballot.
-* Standing for (public) offices: Most citizens of the UK, the Irish Republic or the Commonwealth aged 18 or over can stand for public Office. There are some exceptions, including: - members of the armed forces - civil servants - people found guilty of certain criminal offences. - Members of the House of Lords may not stand for election to the House of Commons.
+* Standing for (public) offices (as a local councillor, a member of Parliament (or the devolved equivalents), a member of the European Parliament, etc.): Most citizens of the UK, the Irish Republic or the Commonwealth aged 18 or over can stand for public Office. There are some exceptions, including: - members of the armed forces - civil servants - people found guilty of certain criminal offences. - Members of the House of Lords may not stand for election to the House of Commons. - Commonwealth citizen or cannot stand to be an MP
 * Visiting the UK parliment: - write to your local MP in advance to ask for tickets - you can queue on the day at the public entrance (free)
 * the Commonwealth has 54 member states. Membership is voluntary. The Commonwealth has no power over its members, although it can suspend membership.
 * the United Nations (UN): 190 members. The UN was set up after the Second World War and aims to prevent war and promote international peace and security.
 * the UN Security Council: recommends action when there are international crises and threats to peace. <br>- The UK is one of five permanent members of the Security Council.
 * NATO: It also aims to maintain peace between all of its members.
-* Laws are divided into criminal law (investigated by the police or another authority such as a council, and which are punished by the courts; Carrying a weapon. Drugs, Racial crime, Selling tobacco, Smoking in public places, Buying alcohol, Drinking in public) and civil law (disputes between individuals or groups; Housing law, Consumer rights, Employment law, Debt).
+* The House of Lords can suggest amendments or propose new laws, which are then discussed by MPs. It checks laws that have been passed by the House of Commons to ensure they are fit for purpose. It also holds the government to account to make sure that it is working in the best interests of the people.
+* Since 1958, the Prime Minister has had the power to nominate peers just for their own lifetime. These are called life peers. They have usually had an important career in politics, business, law or another profession. Life peers are appointed by the monarch on the advice of the Prime Minister.
+* Since 1999, hereditary peers have lost the automatic right to attend the House of Lords. The Reform Act of 1832 had greatly increased the number of people with the right to vote. The Act also abolished the old pocket and rotten boroughs and more parliamentary seats were given to the towns and cities.
+* MPs have a number of different responsibilities. They:
+    * represent everyone in their constituency
+    * help to create new laws
+    * scrutinise and comment on what the government is doing
+    * debate important national issues
+* As well as getting the right to vote, people on the electoral register are randomly selected to serve on a jury. Anyone who is on the electoral register and is aged **18 to 70** can be asked to do this.
+* In November 2012, the public elected Police and Crime Commissioners (PCCs) in England and Wales.
+* canvassing: members of political parties who are handing out leaflets in the street or by knocking on people’s doors and asking for their support or to persuade people to vote for their candidates.
+
+
+
+
+## Judicial systems and law ##
+* Laws are divided into
+  * criminal law: investigated by the police or another authority such as a council, and which are punished by the courts - Carrying a weapon. Drugs, Racial crime, Selling tobacco, Smoking in public places, Buying alcohol, Drinking in public, Female genital mutilation (FGM) which is also known as cutting or female circumcision, Forced marriage, drive without insurance, not to have an MOT certificate if your vehicle is more than three years old
+  * civil law: disputes between individuals or groups - Housing law, Consumer rights, Employment law, Debt).
 * Police: - Independent of the government - headed by Chief Constables -Police and Crime Commissioners (PCCs) in England and Wales: sets local police priorities and the local policing budget. They also appoint the Chief Constable - elected by a public election - Police Officers are supported by police community support Officers (PSCOs). PSCOs have different roles according to the area but usually patrol the streets, work with the public, and support police Officers at crime scenes and major events. - complaint about the police: 1) going to a police station, 2) writing to the Chief Constable and 3) Independent Police Complaints Commission in England and Wales, the Police Complaints Commissioner for Scotland or the Police Ombudsman for Northern Ireland.
-* Criminal courts
-  * Adult's Minor criminal:
-     * England, Wales: in Magistrates’ Court - Magistrates are Unpaid and do not need legal qualifications - supported by a legal adviser
-    * North Ireland:  in Magistrates’ Court - Magistrates are District Judges or Deputy District Judges, who are legally qualified and paid
-     * Scotland: in Justice of the Peace Court (JP court) - JPs are unpaid and do not need legal qualifications - supported by a legal adviser
-  * * Adult's Major criminal
-    * In England, Wales and Northern Ireland: in Crown Court - in front of a judge and a jury
-    * In Scotland:
-      * Not very serious cases: in Sheriff Court - in front of a sheriff or a sheriff with a jury
-      * Mos serious cases such as murder: In a High Court with a judge and jury
-  * Youth's minor criminal
-    * In England, Wales and Northern Ireland: in Youth Court - in front of up to three specially trained magistrates or a District Judge
-    * In Scotland: in Children’s Hearings System
-  * Youth's major (serious) criminal
-    * In England, Wales and Northern Ireland: In Crown Court
-    * In Scotland: in Children’s Hearings System
+
+Criminal courts
+* Adult's Minor criminal:
+  * England, Wales: in Magistrates’ Court - Magistrates are Unpaid and do not need legal qualifications - supported by a legal adviser
+  * North Ireland:  in Magistrates’ Court - Magistrates are District Judges or Deputy District Judges, who are legally qualified and paid
+   * Scotland: in Justice of the Peace Court (JP court) - JPs are unpaid and do not need legal qualifications - supported by a legal adviser
+* Adult's Major criminal
+  * In England, Wales and Northern Ireland: in Crown Court - in front of a judge and a jury
+  * In Scotland:
+    * Not very serious cases: in Sheriff Court - in front of a sheriff or a sheriff with a jury
+    * Mos serious cases such as murder: In a High Court with a judge and jury
+* Youth's minor criminal
+  * In England, Wales and Northern Ireland: in Youth Court - in front of up to three specially trained magistrates or a District Judge
+  * In Scotland: in Children’s Hearings System
+* Youth's major (serious) criminal
+  * In England, Wales and Northern Ireland: In Crown Court
+  * In Scotland: in Children’s Hearings System
 
 * Members of the public are not allowed in Youth Courts, and the name or photographs of the accused young person cannot be published in newspapers or used by the media.
 * Northern Ireland has a system of **youth conferencing** to consider how a child should be dealt with when they have committed an offence.
-* Jury's verdict: - England, Wales and Northern Ireland: ‘guilty’ or ‘not guilty’ - Scotland: ‘guilty’, ‘not guilty’ or ‘not proven’
-* Jury: - made up of members of the public chosen at random from the local electoral register. - England, Wales and Northern Ireland 12 members, Scotland 15 members - If the jury finds a defendant "guilty", the judge decides on the penalty.
+* Jury's verdict:
+  - England, Wales and Northern Ireland: ‘guilty’ or ‘not guilty’
+  - Scotland: ‘guilty’, ‘not guilty’ or ‘not proven’
+* Jury:
+  - Made up of members of the public chosen at random from the local electoral registers aged 18 to 70.
+  - England, Wales and Northern Ireland 12 members, Scotland 15 members
+  - If the jury finds a defendant "guilty", the judge decides on the penalty.
 
 Civil courts
 * Minor cases: people trying to get back money that is owed to them, cases involving personal injury, family matters, breaches of contract, and divorce 
@@ -526,20 +642,52 @@ The Small claims: an informal way of helping people to settle minor disputes wit
 * England and Wales: less than £5,000
 * Scotland and Northern Ireland: less than £3,000
 
-Solicitors: 
+Solicitors
 - They advertise in local newspapers and in Yellow Pages
 - The Citizens Advice Bureau: to get names of local solicitors and which areas of law they specialise in
 - Solicitors’ charges are usually based on how much time they spend on a case
 
+Discrimination problem: You can get information from Citizens Advice Bureau or Equality and Human Rights Commission.
 
-* The House of Lords can suggest amendments or propose new laws, which are then discussed by MPs. It checks laws that have been passed by the House of Commons to ensure they are fit for purpose. It also holds the government to account to make sure that it is working in the best interests of the people.
-* Since 1958, the Prime Minister has had the power to nominate peers just for their own lifetime. These are called life peers. They have usually had an important career in politics, business, law or another profession. Life peers are appointed by the monarch on the advice of the Prime Minister.
-* Since 1999, hereditary peers have lost the automatic right to attend the House of Lords. The Reform Act of 1832 had greatly increased the number of people with the right to vote. The Act also abolished the old pocket and rotten boroughs and more parliamentary seats were given to the towns and cities.
-* MPs have a number of different responsibilities. They:
-    * represent everyone in their constituency
-    * help to create new laws
-    * scrutinise and comment on what the government is doing
-    * debate important national issues
-* As well as getting the right to vote, people on the electoral register are randomly selected to serve on a jury. Anyone who is on the electoral register and is aged **18 to 70** can be asked to do this.
-* In November 2012, the public elected Police and Crime Commissioners (PCCs) in England and Wales.
+Domestic violence: 
+- Get information from a solicitor or the Citizens Advice Bureau
+- Safe places to go and stay in, called refuges or shelters
+- Emergency telephone numbers: helpline section at the front of Yellow Pages, the 24-hour National Domestic Violence Freephone Helpline, police 
+
+Forced marriage: can be jailed for up to 2 years
+
+
+Income tax (is used for government services such as roads, education, police and the armed forces):
+* Employee: ‘Pay As You Earn’ (PAYE) which is taking automatically tax from the income from employment by their employer and paid directly to HM Revenue & Customs (HMRC)
+* Self-employed: self-assessment
+
+National Insurance (is used for state benefits and services such as the state retirement pension, the National Health Service (NHS), Jobseeker’s Allowance, Maternity pay)
+- All people are sent a National Insurance number just before their 16th birthday.
+- You can start work without one
+- To get it you need to telephone the Department for Work and Pensions (DWP): documents needed are 1) documents that prove your identity and 2) that you have permission to work in the UK
+- A National Insurance number is not a prove for the right to work in the UK.
+
+Driving
+- car or motor cycle: 17 years old
+- moped: 16 years old
+- Drivers can use their driving licence until they are 70 years old. After that, the licence is valid for 3 years at a time.
+- In Northern Ireland, a newly qualified driver must display an ‘R’ place (for restricted driver) for one year after passing the test.
+- your car or motor cycle must be registered at the Driver and Vehicle Licensing Agency (DVLA)
+- You must pay an annual road tax and display the tax disc on the windscreen
+
+* You have to be 18 to go into betting shops or gambling clubs.
+* People under 16 are not allowed to participate in the National Lottery (draws are made every week and you can enter by buying a ticket or a scratch card).
+* It is against the law to treat a pet cruelly or to neglect it. All dogs in public places must wear a collar showing the name and address of the owner. The owner is responsible for keeping the dog under control and for cleaning up after the animal in a public place.
+* People at least 16 years old can drink wine or beer with a meal in a hotel or restaurant (including eating areas in pubs) as long as they are with someone over 18. If alone, they should be at least 18.
+
+
+## Schools ##
+Many schools organise events to raise money for extra equipment or out-of-school activities. Activities might include book sales, toy sales or bringing food to sell. Sometimes events are organised by parent-teacher associations (PTAs). 
+
+School governors/board: 
+- Electied or appointed (over 18)
+- Raising school standards by 1) setting the strategic direction of the school 2) ensuring accountability 3) monitoring and evaluating school performance.
+- To apply either contact your local school or in England apply online at the School Governors’ One-Stop Shop
+
+- 
 

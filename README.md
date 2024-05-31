@@ -670,7 +670,7 @@ These ministers form the cabinet, a committee which usually meets weekly. Each d
 ## Judicial systems and law ##
 * Laws are divided into
   * criminal law: investigated by the police or another authority such as a council, and which are punished by the courts
-    - Carrying a weapon. Drugs, Racial crime, Selling tobacco, Smoking in public places, Buying alcohol, Drinking in public, Female genital mutilation (FGM) which is also known as cutting or female circumcision, Forced marriage, drive without insurance, not to have an MOT certificate if your vehicle is more than three years old
+    - Carrying a weapon, Drugs, Racial crime, Selling tobacco, Smoking in public places, Buying alcohol, Drinking in public, Female genital mutilation (FGM) which is also known as cutting or female circumcision, Forced marriage, drive without insurance, not to have an MOT certificate if your vehicle is more than three years old
   * civil law: disputes between individuals or groups
     - Housing law, Consumer rights, Employment law, Debt
 * Police:
@@ -682,17 +682,17 @@ These ministers form the cabinet, a committee which usually meets weekly. Each d
 
 Criminal courts
 * Adult's Minor criminal:
-  * England, Wales: in Magistrates’ Court - Magistrates are Unpaid and do not need legal qualifications - supported by a legal adviser
+  * England, Wales: in **Magistrates**’ Court - Magistrates are Unpaid and do not need legal qualifications - supported by a legal adviser
   * North Ireland:  in Magistrates’ Court - Magistrates are District Judges or Deputy District Judges, who are legally qualified and paid
-   * Scotland: in Justice of the Peace Court (JP court) - JPs are unpaid and do not need legal qualifications - supported by a legal adviser
+   * Scotland: in **Justice of the Peace Court (JP court)** - JPs are unpaid and do not need legal qualifications - supported by a legal adviser
 * Adult's Major criminal
-  * In England, Wales and Northern Ireland: in Crown Court - in front of a judge and a jury
+  * In England, Wales and Northern Ireland: in **Crown Court** - in front of a judge and a jury
   * In Scotland:
-    * Not very serious cases: in Sheriff Court - in front of a sheriff or a sheriff with a jury
+    * Not very serious cases: in **Sheriff Court** - in front of a sheriff or a sheriff with a jury
     * Mos serious cases such as murder: In a High Court with a judge and jury
 * Youth's minor criminal
-  * In England, Wales and Northern Ireland: in Youth Court - in front of up to three specially trained magistrates or a District Judge
-  * In Scotland: in Children’s Hearings System
+  * In England, Wales and Northern Ireland: in **Youth Court** - in front of up to three specially trained magistrates or a District Judge
+  * In Scotland: in **Children’s Hearings System**
 * Youth's major (serious) criminal
   * In England, Wales and Northern Ireland: In Crown Court
   * In Scotland: in Children’s Hearings System
@@ -708,21 +708,27 @@ Criminal courts
   - If the jury finds a defendant "guilty", the judge decides on the penalty.
 
 Civil courts
-* Minor cases: people trying to get back money that is owed to them, cases involving personal injury, family matters, breaches of contract, and divorce 
-  * England, Wales and Northern Ireland: in County Courts
+* Minor civil cases: people trying to get back money that is owed to them, cases involving personal injury, family matters, breaches of contract, and divorce 
+  * England, Wales and Northern Ireland: in **County Courts**
   * Scotland: in Sheriff Court
-* Major cases: More serious civil cases – for example, when a large amount of compensation is being claimed
-  * England, Wales and Northern Ireland: in the High Court
-  * Scotland: in the Court of Session
+* Major civil cases: More serious civil cases – for example, when a large amount of compensation is being claimed
+  * England, Wales and Northern Ireland: in the **High Court**
+  * Scotland: in the **Court of Session**
 
-The Small claims: an informal way of helping people to settle minor disputes without spending a lot of time and money using a lawyer - The hearing is held in front of a judge in an ordinary room, and people from both sides of the dispute sit around a table
+
+|England, Wales and Northern Ireland|Scotland|
+| --- | --- |
+|1)Magistrates' Court:Adult's Minor criminal, <br>2)Crown Court:Adult's Major criminal, Youth's major (serious) criminal   <br>3) Youth Court:  Youth's minor criminal   <br>4) County Courts: Minor civil cases   <br>5) High Court  <br>  | 1) Justice of the Peace Court (JP court):Adult's Minor criminal <br>2) Sheriff Court:Adult's Major criminal, Minor civil cases    <br>3) High Court:Adult's more Major criminal    <br>4) Children’s Hearings System: Youth's minor criminal, Youth's major (serious) criminal <br>5) Court of Session: Major civil cases |
+
+
+The **Small claims**: an informal way of helping people to settle minor disputes without spending a lot of time and money using a lawyer - The hearing is held in front of a judge in an ordinary room, and people from both sides of the dispute sit around a table
 * England and Wales: less than £10,000
 * Scotland: less than £5,000
 * Northern Ireland: less than £3,000
 
 Solicitors
-- They advertise in local newspapers and in Yellow Pages
-- The Citizens Advice Bureau: to get names of local solicitors and which areas of law they specialise in
+- They advertise in local newspapers and in **Yellow Pages**
+- The **Citizens Advice Bureau**: to get names of local solicitors and which areas of law they specialise in
 - Solicitors’ charges are usually based on how much time they spend on a case
 
 Discrimination problem: You can get information from Citizens Advice Bureau or Equality and Human Rights Commission.

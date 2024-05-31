@@ -718,7 +718,7 @@ Civil courts
 
 |England, Wales and Northern Ireland|Scotland|
 | --- | --- |
-|1)Magistrates' Court:Adult's Minor criminal, <br>2)Crown Court:Adult's Major criminal, Youth's major (serious) criminal   <br>3) Youth Court:  Youth's minor criminal   <br>4) County Courts: Minor civil cases   <br>5) High Court  <br>  | 1) Justice of the Peace Court (JP court):Adult's Minor criminal <br>2) Sheriff Court:Adult's Major criminal, Minor civil cases    <br>3) High Court:Adult's more Major criminal    <br>4) Children’s Hearings System: Youth's minor criminal, Youth's major (serious) criminal <br>5) Court of Session: Major civil cases |
+|1) Magistrates' Court: Adult's Minor criminal, <br>2)Crown Court: Adult's Major criminal, Youth's major (serious) criminal   <br>3) Youth Court:  Youth's minor criminal   <br>4) County Courts: Minor civil cases   <br>5) High Court: Major civil cases  | 1) Justice of the Peace Court (JP court): Adult's Minor criminal <br>2) Sheriff Court: Adult's Major criminal, Minor civil cases    <br>3) High Court: Adult's more Major criminal    <br>4) Children’s Hearings System: Youth's minor criminal, Youth's major (serious) criminal <br>5) Court of Session: Major civil cases |
 
 
 The **Small claims**: an informal way of helping people to settle minor disputes without spending a lot of time and money using a lawyer - The hearing is held in front of a judge in an ordinary room, and people from both sides of the dispute sit around a table

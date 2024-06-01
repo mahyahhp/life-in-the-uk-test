@@ -641,12 +641,12 @@ Devolved administrations (parliaments in Scotland, Wales and Northern Ireland)
 
 * The British constitution is not written down in any single document, and therefore it is described as ‘unwritten’. This is mainly because the UK, unlike America or France, has never had a revolution which led permanently to a totally new system of government.
 * When you arrive at the polling station, the staff will ask for your name and address. In Northern Ireland you will also have to show photographic identification. You will then get your ballot paper, which you take to a polling booth to fill in privately
-* The Prime Minister appoints about **20** senior MPs to become ministers in charge of departments:  
+* The **Prime Minister** appoints about **20** **senior MPs** to become ministers in charge of departments:  
     * **Chancellor of the Exchequer** – responsible for the economy
     * **Home Secretary** – responsible for crime, policing and immigration
     * **Foreign Secretary** – responsible for managing relationships with foreign countries
     * other ministers (called ‘**Secretaries of State**’) responsible for subjects such as education, health and defence.
-These ministers form the cabinet, a committee which usually meets weekly. Each department also has a number of other ministers, called Ministers of State and Parliamentary Under-Secretaries of State, who take charge of particular areas of the department’s work.
+* These ministers form the cabinet (20 senior MPs), a committee which usually meets weekly. Each department also has a number of other ministers, called **Ministers of State** and **Parliamentary Under-Secretaries of State**, who take charge of particular areas of the department’s work.
 *The opposition: The second-largest party in the House of Commons. The leader of the opposition usually becomes Prime Minister if his or her party wins the next General Election. They challenges PM at Prime Minister’s Questions, which takes place every week while Parliament is sitting. The leader of the opposition also appoints senior opposition MPs to be ‘shadow ministers’. They form the shadow cabinet and their role is to challenge the government and put forward alternative policies.
 * Pressure and lobby groups: are organisations which try to influence government policy such as the CBI (Confederation of British Industry) which represents the views of British busines, the environment (for example, Greenpeace) or human rights (for example, Liberty).
 * The civil service: support the government in developing and implementing its policies. They also deliver public services. Civil servants are accountable to ministers. They are chosen on merit and are politically neutral – they are not political appointees.

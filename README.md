@@ -357,14 +357,14 @@ Skiing
 | Name | Achievement |
 | --- | --- |
 | Thomas Gainsborough | portrait painter, people in country or gardens |
+| Sir John Lavery | Northern Irish portrait painter, painted the Royal Family |
+| Lucian Freud | German born British artist best know for his portraits |
 | David Allan | Scottish painter, made The origin of Painting |
 | Joseph Turner | landscape painter |
-| John Constable | landscape painter  
+| John Constable | landscape painter | 
 | The Pre-Raphaelites | group of artists detailed pictures on religious or literary themes in bright colours, the group included Holman Hunt, Dante Gabriel Rossetti and Sir John Millais | 
-| Sir John Lavery | Northern Irish portrait painter, painted the Royal Family |
 | Henry Moore | English sculptor , large bronze abstract sculptures |
 | John Petts | welsh artist known for engravings and stained glass |
-| Lucian Freud | German born British artist best know for his portraits |
 | David Hockney | important contributor to the *Pop Art* movement of the 1960s |
 
 * The Turner Prize was established in 1984 and celebrates contemporary art.
@@ -383,12 +383,12 @@ Skiing
 | William the Conqueror | ordered to build the Tower of London |
 | Sir Christopher Wren | St Paul's Cathedral |
 | Robert Adam | Scottish architect Dumfries House in Scotland, influences the Royal Crescent in Bath |
+| Gertrude Jekyll | worked with Lutyens to design colourful gardens |
+| Lancelot 'Capability' Brown | designed country houses lands | 
 | Sir Edwin Lutyens | designed New Delhi, responsible for the memorial Cenotaph in Whitehall |
 | Sir Norman Foster | modern British architect |
 | Lord (Richard) Rogers | modern British architect |
 | Dame Zaha Hadid | modern British architect |
-| Lancelot 'Capability' Brown | designed country houses lands | 
-| Gertrude Jekyll | worked with Lutyens to design colourful gardens |
 
 * In the 19th century, the medieval ‘gothic’ style became popular again.
 
@@ -409,35 +409,38 @@ Skiing
 | Name | Achievement |
 | --- | --- |
 | Sir William Golding | novelist, Nobel prize |
-| Seamus Heaney | poet, Nobel prize |
-| Harold Pinter | playwright, Nobel prize |
-| Agatha Christie | wrote detective stories |
-| Ian Fleming | stories that introduce James Bond 2003 |
-| J.R.R. Tolkien | *The Lord of the Rings*  the country's best loved novel |
 | Jane Austen | English novelist. *Pride and Prejudice* and *Sense and Sensibility* |
+| J.R.R. Tolkien | *The Lord of the Rings*  the country's best loved novel |
 | Charles Dickens | wrote very famous novels like *Oliver Twist* and *Great Expectations* | 
-| Robert Luis Stevenson | books like *Treasure Island*, *Kidnapped* and *Dr Jekyll and Mr Hyde* |
-| Thomas Hardy | author and poet, known for *Far from the Madding Crowd* and *Jude the Obscure* |
-| Sir Arthur Conan Doyle | Scottish doctor and writer best know for stories about *Sherlock Holmes* |
 | Evelyn Waugh | wrote satirical novels including *Decline and Fall* and *Scoop*, *Brideshead Revisited* |
 | Sir Kingsley Amis | English novelist and poet, wrote more than 20 novels, *Lucky Jim* |
 | Graham Greene | wrote novels influenced by religious beliefs, *The Heart of the Matter*, *The Honorary Consul*, *Brighton Rock*, *Our Man in Havana* |
-| J K Rowling | wrote *Harry Potter* series |
 | Ian McEwan | winner of Man Booker Prize for Fiction, best fiction novel in the Commonwealth Ireland or Zimbabwe |
 | Hilary Mantel | winner of Man Booker Prize for Fiction, best fiction novel in the Commonwealth Ireland or Zimbabwe |
 | Julian Barnes | winner of Man Booker Prize for Fiction, best fiction novel in the Commonwealth Ireland or Zimbabwe |
-| - | *BeoWulf* Anglo-Saxon poem |
+|||
+| Agatha Christie | wrote detective stories |
+| Ian Fleming | stories that introduce James Bond 2003 |
+| Harold Pinter | playwright, Nobel prize |
+| Robert Luis Stevenson | books like *Treasure Island*, *Kidnapped* and *Dr Jekyll and Mr Hyde* |
+| Sir Arthur Conan Doyle | Scottish doctor and writer best know for stories about *Sherlock Holmes* |
+| J K Rowling | wrote *Harry Potter* series |
 | Caucher | *Canterbury Tales* |
+|||
+| Seamus Heaney | poet, Nobel prize |
+| Thomas Hardy | author and poet, known for *Far from the Madding Crowd* and *Jude the Obscure* |
+| - | *BeoWulf* Anglo-Saxon poem |
 | John Milton | protestant poems inspired by religious views, *Paradise is Lost* |
 | William Shakespeare | playwright and actor and wrote poems and plays (sonnets, poems of 14 lines) |
 | William Wordsworth | poet inspired by nature, *The Daffodils* |
 | Sir Walter Scott | poems inspired by Scotland |
+| John Barbour | scottish poet who wrote The Bruce about the Battle of Bannockburn. |
+|||
 | Robert Browning | *Home Thoughts from Abroad* |
 | Lord Byron | *She Walks in Beauty* |
 | William Blake | *The Tyger* |
 | Wilfred Owen | *Anthem for Doomed Youth*, also wrote about his experiences during the war |
 | Sigfried Sassoon | wrote about his experiences during the war |
-| John Barbour | scottish poet who wrote The Bruce about the Battle of Bannockburn. |
 
 * in 2003 JRR Tolkien's *Lords of the Rings* is voted country's most loved novel
 
@@ -451,6 +454,7 @@ Skiing
 | Dame Judi Dench | Oscar winner |
 | Kate Winslet | Oscar winner |
 | Tilda Swinton | Oscar winner |
+|||
 | Sir Alfred Hitchcock | famous director, *The 39 steps* |
 | David Lean | directed *Brief encounter* and *Lawrence of Arabia* |
 | Carol Reed | directed *The Third Man* |

@@ -370,11 +370,11 @@ Skiing
 * The Turner Prize was established in 1984 and celebrates contemporary art.
 * Many of the painters working in Britain in the 16th and 17th centuries were from abroad – for example, Hans Holbein and Sir Anthony Van Dyck.
 * Works by British and international artists are displayed in galleries:
-- The National Gallery
-- Tate Britain
-- Tate Modern in London
-- the National Museum in Cardiff
-- the National Gallery of Scotland in Edinburgh.
+  - The National Gallery
+  - Tate Britain
+  - Tate Modern in London
+  - the National Museum in Cardiff
+  - the National Gallery of Scotland in Edinburgh.
 
 ### Architecture ###
 

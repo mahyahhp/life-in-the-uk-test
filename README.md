@@ -610,6 +610,7 @@ Skiing
 * A Northern Ireland Parliament was established in 1922, when Ireland was divided, but it was abolished in 1972, shortly after the Troubles broke out in 1969. The Northern Ireland Assembly was established soon after the Belfast Agreement (or Good Friday Agreement) in 1998.
 * Prior to Brexit, adult citizens of other EU states who are resident in the UK could vote in all elections except General Elections. As of 2020, EU citizens’ local voting rights have also changed and are now set on individual, per-country basis.
 * Swinging Sixties: decade of the 1960s was a period of significant social change. There was growth in British fashion, cinema and popular music. Two well-known pop music groups at the time were The Beatles and The Rolling Stones. People started to become better off and many bought cars and other consumer goods. It was also a time when social laws were liberalised, for example in relation to divorce and to abortion in England, Wales and Scotland.
+* The public can listen to debates in the Palace of Westminster from public galleries in both the House of Commons and the House of Lords.
 
 ## National Anthem ##
 Starts with:

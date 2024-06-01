@@ -136,7 +136,7 @@ Life in the United Kingdom (3rd edition)
 | 2010                 | no party won the election | Conservative and Liberal Democrat parties formed a coalition led by David Cameron (conserative) |
 | 2012                 | Diamond Jubilee (60 years as queen)||
 | 2015                 | Queen Elizabeth II became the longest reigning monarch (70 years in total when she died) | She passed the record set by her great-great-grandmother Queen Victoria (64 years)|
-| 2020                 | Brexit | quit from EU |
+| 2020                 | Brexit | quit from EU on 31 Jan. |
 | 2022                 | Queen Elizabeth II| died |
 | 2022                 | King Charles III | - became king - Prince William (Prince of Wales) is now heir. |
 

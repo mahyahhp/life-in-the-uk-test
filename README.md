@@ -415,9 +415,9 @@ Skiing
 | Evelyn Waugh | wrote satirical novels including *Decline and Fall* and *Scoop*, *Brideshead Revisited* |
 | Sir Kingsley Amis | English novelist and poet, wrote more than 20 novels, *Lucky Jim* |
 | Graham Greene | wrote novels influenced by religious beliefs, *The Heart of the Matter*, *The Honorary Consul*, *Brighton Rock*, *Our Man in Havana* |
-| Ian McEwan | winner of Man Booker Prize for Fiction, best fiction novel in the Commonwealth Ireland or Zimbabwe |
-| Hilary Mantel | winner of Man Booker Prize for Fiction, best fiction novel in the Commonwealth Ireland or Zimbabwe |
-| Julian Barnes | winner of Man Booker Prize for Fiction, best fiction novel in the Commonwealth Ireland or Zimbabwe |
+| Ian McEwan | winner of the Man Booker Prize for Fiction, best fiction novel in the Commonwealth Ireland or Zimbabwe |
+| Hilary Mantel | winner of the Man Booker Prize for Fiction, best fiction novel in the Commonwealth Ireland or Zimbabwe |
+| Julian Barnes | winner of the Man Booker Prize for Fiction, best fiction novel in the Commonwealth Ireland or Zimbabwe |
 |||
 | Agatha Christie | wrote detective stories |
 | Ian Fleming | stories that introduce James Bond 2003 |
@@ -509,7 +509,7 @@ Skiing
 * Loch Lomond and the Trossachs National Park: National park in the west of Scotland. The largest expanse of fresh water in mainland Britain.
 * The London Eye:  Situated on the southern bank of the River Thames and is a Ferris wheel that is 443 feet (135 metres) tall. It was originally built as part of the UK’s celebration of the new millennium and continues to be an important part of New Year celebrations.
 * Snowdonia: A national park in North Wales. Its most well-known landmark is Snowdon, which is the highest mountain in Wales.
-* The Tower of London:was first built by William the Conqueror after he became king in 1066. Tours are given by the Yeoman Warders, also known as Beefeaters, who tell visitors about the building’s history. People can also see the Crown Jewels there.
+* The Tower of London:was first built by William the Conqueror after he became king in 1066. The White Tower in the Tower of London is an example of a Norman castle keep, built on the orders of William the Conqueror. Tours are given by the Yeoman Warders, also known as Beefeaters, who tell visitors about the building’s history. People can also see the Crown Jewels there.
 * The Lake District: largest national park. The biggest stretch of water is Windermere. In 2007, television viewers voted Wastwater as Britain’s favourite view.
 
 ### Religion facts ###
@@ -612,6 +612,7 @@ Skiing
 * Swinging Sixties: decade of the 1960s was a period of significant social change. There was growth in British fashion, cinema and popular music. Two well-known pop music groups at the time were The Beatles and The Rolling Stones. People started to become better off and many bought cars and other consumer goods. It was also a time when social laws were liberalised, for example in relation to divorce and to abortion in England, Wales and Scotland.
 * The public can listen to debates in the Palace of Westminster from public galleries in both the House of Commons and the House of Lords.
 * Constitutional institutions in the UK include: the monarchy, the Parliament (the House of Commons and the House of Lords), the Prime Minister, the cabinet, the judiciary (courts), the police, the civil service and the local government. The armed forces are not a constitutional institution.
+* John Major became Prime Minister after Margaret Thatcher and played an important part in the Northern Ireland peace process.
 
 ## National Anthem ##
 Starts with:
@@ -734,8 +735,7 @@ Civil courts
 
 The **Small claims**: an informal way of helping people to settle minor disputes without spending a lot of time and money using a lawyer - The hearing is held in front of a judge in an ordinary room, and people from both sides of the dispute sit around a table
 * England and Wales: less than £10,000
-* Scotland: less than £5,000
-* Northern Ireland: less than £3,000
+* Scotland and Northern Ireland: less than £3,000
 
 Solicitors
 - They advertise in local newspapers and in **Yellow Pages**

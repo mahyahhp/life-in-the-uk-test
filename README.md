@@ -73,7 +73,7 @@ Life in the United Kingdom (3rd edition)
 |1830-1840|the Chartists campaigned|They wanted six changes: - for every man to have the vote - elections every year - for all regions to be equal in the electoral system - secret ballots - for any man to be able to stand as an MP - for MPs to be paid.|
 | 1840                | Punch Magazine | satirical magazine |
 | 1846                | Abolishment/repealing of Corn Laws | - To import of cheap grains and helping industies.|
-| 1847                 | Better working condition| - the number of hours that women and children could work was limited by law to 10 hours per day.|
+| 1847                 | the Factories Act of 1847| - Better working condition: the number of hours that women and children could work was limited by law to 10 hours per day.|
 | 1851                | Great Exhibition | in Hyde Park in the Crystal Palace: Countries from all over the world showed their goods but most of the objects were made in Britain. |
 | 1853-1856       | Crimean Wars | - Britain, France and Turkey fight Russia <br> - It was the first war to be extensively covered by the media through news stories and photographs. <br> - The conditions were very poor and many soldiers died from illnesses they caught in the hospitals, rather than from war wounds. <br> - Queen Victoria introduced the Victoria Cross medal during this war. It honours acts of valour by soldiers. |
 |1860| Modern nursing| - Florence Nightingale was born in Italy to English parents. At the age of 31, she trained as a nurse in Germany. In 1854, she went to Turkey and worked in military hospitals, treating soldiers who were fighting in the Crimean War. She and her fellow nurses improved the conditions in the hospital and reduced the mortality rate. In 1860 she established the Nightingale Training School for nurses at St Thomas’ Hospital in London. The school was the first of its kind and still exists today, as do many of the practices that Florence used. She is often regarded as the founder of modern nursing.|
@@ -611,6 +611,7 @@ Skiing
 * Prior to Brexit, adult citizens of other EU states who are resident in the UK could vote in all elections except General Elections. As of 2020, EU citizens’ local voting rights have also changed and are now set on individual, per-country basis.
 * Swinging Sixties: decade of the 1960s was a period of significant social change. There was growth in British fashion, cinema and popular music. Two well-known pop music groups at the time were The Beatles and The Rolling Stones. People started to become better off and many bought cars and other consumer goods. It was also a time when social laws were liberalised, for example in relation to divorce and to abortion in England, Wales and Scotland.
 * The public can listen to debates in the Palace of Westminster from public galleries in both the House of Commons and the House of Lords.
+* Constitutional institutions in the UK include: the monarchy, the Parliament (the House of Commons and the House of Lords), the Prime Minister, the cabinet, the judiciary (courts), the police, the civil service and the local government. The armed forces are not a constitutional institution.
 
 ## National Anthem ##
 Starts with:

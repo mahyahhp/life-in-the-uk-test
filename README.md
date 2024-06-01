@@ -431,7 +431,7 @@ Skiing
 | Thomas Hardy | author and poet, known for *Far from the Madding Crowd* and *Jude the Obscure* |
 | - | *BeoWulf* Anglo-Saxon poem |
 | John Milton | protestant poems inspired by religious views, *Paradise is Lost* |
-| William Shakespeare | playwright and actor and wrote poems and plays (sonnets, poems of 14 lines) |
+| William Shakespeare | playwright and actor and wrote poems and plays (sonnets, poems of 14 lines); A Midsummer Night’s Dream, Hamlet, Macbeth and Romeo and Juliet. |
 | William Wordsworth | poet inspired by nature, *The Daffodils* |
 | Sir Walter Scott | poems inspired by Scotland |
 | John Barbour | scottish poet who wrote The Bruce about the Battle of Bannockburn. |

@@ -562,12 +562,10 @@ Skiing
 * "Britain", "British Isles" or "British": everyone living in the UK
 * Crown dependencies: Channel Islands and Isle of Man (not part of the UK and have their goverment)
 * British overseas: St Helena and Falkland Islands
-* 15 national parks in the UK
 * It takes about **1 hour** to donate blood
-* MOT for cars older than **3 years**
-* Mothering Sunday (or Mother’s Day) is the Sunday three weeks before Easter. 
+* MOT for cars older than **3 years** 
 * The Queen is the ceremonial head of the Commonwealth, which currently has **54** member states.
-*  The UN has 190 member states
+* The UN has 190 member states
 * The currency in the UK is the pound sterling (symbol £). There are 100 pence in a pound. The denominations (values) of currency are:
     * coins: 1p, 2p, 5p, 10p, 20p, 50p, £1 and £2
     * notes: £5, £10, £20, £50.
@@ -580,8 +578,6 @@ Skiing
     * freedom of thought, conscience and religion
     * freedom of expression (speech).
 * The chairperson of the General Assembly of the Church of Scotland is the **Moderator**, who is appointed for **one year** only and often speaks on behalf of that Church.
-* Big Ben is the nickname for the great bell of the clock at the Houses of Parliament in London. Many people call the clock Big Ben as well. The clock is over 150 years old and is a popular tourist attraction. The clock tower is named ‘Elizabeth Tower’ in honour of Queen Elizabeth II’s **Diamond Jubilee in 2012**.
-* Serious civil cases are dealt in the **High Court** in England, Wales and Northern Ireland and for Scotland, in the **Court of Session in Edinburgh**
 * British charities:
   * British Red Cross: international charity
   * Age UK: older people
@@ -605,8 +601,8 @@ Skiing
 *  The traditions of comedy and satire, and the ability to laugh at ourselves, are an important part of the UK character.
 *  10% of population has parents/grandparents out of the UK
 *  Swansea is in wales.
-*  Prince Willian : is the heir to throne
-*  Slave trade: west africa
+*  Prince Willian: is the heir to throne
+*  Slave trade: from west africa
 *  New citizens swear or affirm loyalty to the Queen as part of the citizenship ceremony.
 * EU members: 27
 * The Council of Europe: 47 member countries; responsible for the protection and promotion of human rights; no power to make laws but draws up conventions and charters, the most well-known of which is the European Convention on Human Rights and Fundamental Freedoms, usually called the European Convention on Human Rights.

@@ -81,7 +81,7 @@ Life in the United Kingdom (3rd edition)
 |1867|another Reform Act|- By Campaigners called the Chartists <br>- This created many more urban seats in Parliament and reduced the amount of property that people needed to have before they could vote. However, the majority of men still did not have the right to vote and no women could vote.|
 |1870| Acts of Parliament| - gave wives the right to keep their own earnings and property (not belonging to husband.)|
 |1889| Women’s Franchise League| - to get the vote in local elections for married women by Emmeline Pankhurst|
-|1895                 |National Trust was founded| - charities that work to preserve important buildings, coastline and countryside in the UK and started by 4 volunteers - now more than 61,000 volunteers |
+|1895                 |National Trust was founded| - charities that work to preserve important buildings, coastline and countryside in the UK and started by 3 volunteers - now more than 61,000 volunteers |
 | 1896                | first public screening of movies | |
 | 1899-1902           | Boer Wars | - The British went to war in South Africa with settlers from the Netherlands called the Boers. <br>- discussions about the future of the Empire more urgent|
 | 1902                | Motor-car racing in the UK started |
@@ -91,54 +91,54 @@ Life in the United Kingdom (3rd edition)
 | 1916                |British attack on the Somme| - about 60,000 British casualties on the first day alone.|
 | 1916                |Easter Rising| -  uprising against the British in Dublin for Ireland independence. Defeated by Britain. |
 | 1916                |guerrilla war| - against the British army and the police in Ireland |
-| 1918                | - end of the WW1 on 11th of November <br>- also women can vote at the age of 30 (in recognition of the contribution women made to the war effort during the First World War.) |
-| 1918|Chartists campaigned has adapted| - he voting franchise was also extended to women over 30|
-| 1921                | peace treaty | - peace signed between Ireland and Britain|
+| 1918                |- end of the WW1 on 11th of November |
+| 1918                | Chartists campaigned has adapted | - the voting franchise was also extended to women over 30 (in recognition of the contribution women made to the war effort during the First World War)|
+| 1921                | Peace Treaty | - peace signed between Ireland and Britain|
 | 1922                | Ireland becomes 2 countries / BBC radio | - 6 protestant countries in the north and the rest is Irish Free State <br>- the Troubles: The conflict between those wishing for full Irish independence and those wishing to remain loyal to the British government |
 | 1928                | women can vote at the same age of men, 21 | - a fully democratic voting system|
 | 1929                | Great Depression | - shipbuilding were badly affected but new industries – including the automobile and aviation industries – developed |
-| 1930s               | Touring Machine | |
-| 1932                | invention of TV | by scotsman John Logie Baird |
+| 1932                | Invention of TV | by scotsman John Logie Baird |
 | 1933                | Hitler| - came to power in Germany|
 | 1935                | invention of Radar | by Sir Robert Watson-Watt |
 | 1936                | BBC first world's TV service | |
 | 1939                | WW2 | - Germany invades Poland <br>- Britain and France declared war <br>- The war was initially fought between the Axis powers (fascist Germany and Italy and the Empire of Japan) and the Allies. The main countries on the allied side were the UK, France, Poland, Australia, New Zealand, Canada, and the Union of South Africa.|
-| 1940                | Battle of Britain | - aerial battle <br>- The most important planes used by the Royal Air Force were the Spitfire and the Hurricane <br>- Despite this crucial victory, the German air force was able to continue bombing London and other British cities at night-time. This was called the Blitz. <br>- The phrase ‘the Blitz spirit’ is still used today to describe Britons pulling together in the face of adversity.|
-| 1940     | The Dunkirk Spirit | - evacuation of British and French troops from France as France falls and rescuing 300,000 people (Many civilian volunteers in small pleasure and fishing boats from Britain helped) |
-|1940                 |Winston Churchill became Prime Minister||
-|1941                 |US entered the WII war|-  when the Japanese bombed its naval base at Pearl Harbour |
+| 1940                | Battle of Britain (also called Blitz) | - aerial battle <br>- The most important planes used by the Royal Air Force were the Spitfire and the Hurricane <br>- Despite this crucial victory, the German air force was able to continue bombing London and other British cities at night-time. This was called the Blitz. <br>- The phrase ‘the Blitz spirit’ is still used today to describe Britons pulling together in the face of adversity.|
+| 1940                | The Dunkirk Spirit | - evacuation of British and French troops from France as France falls and rescuing 300,000 people (Many civilian volunteers in small pleasure and fishing boats from Britain helped) |
+| 1940                |Winston Churchill became Prime Minister||
+| 1941                |US entered the WII war|-  when the Japanese bombed its naval base at Pearl Harbour |
 | 1944                | D-Day | Allies in Normandy to attack Germans |
 | 1945                | end of WW2 | - German defeat <br>- atom bomb in Japan (Hiroshima and Nagasaki)|
 | 1945                | Labour Government | Clement Attlee is PM, nationalisation of industries (railways, coal mines and gas, water and electricity supplies) and strong welfare (who promised to introduce the welfare state outlined in the Beveridge Report.)|
 | 1947                | colonies independent | - Britain give independence to 9 countries, including India, Pakistan and Ceylon(Sri Lanka) <br>- Other colonies in Africa, the Caribbean and the Pacific achieved independence over the next 20 years. <br>- The UK developed its own atomic bomb and joined the new North Atlantic Treaty Organization (NATO)|
 | 1948                | NHS | by minister Aneurin (Nye) Bevan |
 | 1949                | Republic of Ireland | |
-|1950| Harold Macmillan| -  was famous for his ‘wind of change’ speech about decolonisation and independence for the countries of the Empire.|
-|1950|European Convention on Human Rights | UK signed it|
+| 1950                | Harold Macmillan| -  was famous for his ‘wind of change’ speech about decolonisation and independence for the countries of the Empire.|
+| 1950                |European Convention on Human Rights | UK signed it|
 | 1951-1964           | Conservative Government | -Winston Churchill returned as Prime Minister <br>- probably in this period Beveridge report (Social Insurance and Allied Services)  and R. A. (Richard Auston) Butler (conservative MP) with free secondary education |
-| 1952 |Queen Elizabeth II has reigned||
+| 1952                | Queen Elizabeth II has reigned||
 | 1957                | EU/EEC | - European Economic Community <br>- the Treaty of Rome : set up by six western European countries (Belgium, France, Germany, Italy, Luxembourg and the Netherlands) -  |
-| 1958| Changes in the House of Lords| - Until 1958, all peers (Members of the House of Lords) were: ‘hereditary’, which means they inherited their title; or senior judges; or bishops of the Church of England. <br>- Since 1958, the Prime Minister has had the power to nominate peers just for their own lifetime. These are called life peers. They have usually had an important career in politics, business, law or another profession. Life peers are appointed by the monarch on the advice of the Prime Minister. |
+| 1958                | Changes in the House of Lords| - Until 1958, all peers (Members of the House of Lords) were: ‘hereditary’, which means they inherited their title; or senior judges; or bishops of the Church of England. <br>- Since 1958, the Prime Minister has had the power to nominate peers just for their own lifetime. These are called life peers. They have usually had an important career in politics, business, law or another profession. Life peers are appointed by the monarch on the advice of the Prime Minister. |
 | 1959                | Margaret Thatcher | is MP, becomes leader of opposition in 1975 |
-| 1969|voting age was reduced to 18 for men and women||
-| 1969                | The Troubles | in Northen Ireland, 3000 people died those years, women and men can vote at 18 |
+| 1969                | voting age was reduced to 18 for men and women||
+| 1969                | The Troubles | in Northen Ireland; 3000 people died those years;|
 | 1972                | Northen Ireland parliament was abolished | |
 | 1973                | UK joined EEC/EU | |
+| 1979-1990           | Margaret Thatcher | PM |
 | 1990                | WWW | Sir Tim Berners-Lee | 
 | 1990                | UK wars | help liberate from Iraqi invasion of Kuwait and Former Republic of Yugoslavia |
 | 1997                | Tony Blair | Labour government, creates Scottish Parliament and Welsh Assembly (Senedd building)|
 | 1997                | More power to Wales, Scotland and Northern Ireland||
 | 1999                | Changes in the House of Lords|- hereditary peers have lost the automatic right to attend the House of Lords. They now elect a few of their number to represent them in the House of Lords.|
-|1999                 |Welsh Assembly, Scottish Parliament, Northern Ireland Assembly  (members elected using a form of proportional representation)|- public services, such as education, are controlled by the devolved administrations. <br>- Policy and laws governing defence, foreign affairs, immigration, taxation and social security all remain under central UK government control. <br>- The devolved administrations each have their own civil service. <br>- The UK government has the power to suspend all devolved assemblies.|
-|2002                 |Winston Churchill voted the greatest Briton of all time by the public||
-| 2009                | Britain leaves Iraq | |
-|2007-2010|Gorden Brown|Laber Party|
-| 2010                | no party won the election | Conservative and Liberal Democrat parties formed a coalition led by David Cameron |
-|2012|Diamond Jubilee (60 years as queen)||
-|2015|Queen Elizabeth II became the longest reigning monarch (70 years)| She passed the record set by her great-great-grandmother Queen Victoria (64 years)|
-| 2020| Brexit| quit from EU|
-|2022| Queen Elizabeth II|died|
-|2022|King Charles III| - became king - Prince William (Prince of Wales) is now heir. |
+| 1999                | Welsh Assembly, Scottish Parliament, Northern Ireland Assembly  (members elected using a form of proportional representation)|- public services, such as education, are controlled by the devolved administrations. <br>- Policy and laws governing defence, foreign affairs, immigration, taxation and social security all remain under central UK government control. <br>- The devolved administrations each have their own civil service. <br>- The UK government has the power to suspend all devolved assemblies.|
+| 2002                 | Winston Churchill voted the greatest Briton of all time by the public||
+| 2007-2010            | Gorden Brown | Laber Party |
+| 2009                 | Britain leaves Iraq | |
+| 2010                 | no party won the election | Conservative and Liberal Democrat parties formed a coalition led by David Cameron (conserative) |
+| 2012                 | Diamond Jubilee (60 years as queen)||
+| 2015                 | Queen Elizabeth II became the longest reigning monarch (70 years in total when she died) | She passed the record set by her great-great-grandmother Queen Victoria (64 years)|
+| 2020                 | Brexit | quit from EU |
+| 2022                 | Queen Elizabeth II| died |
+| 2022                 | King Charles III | - became king - Prince William (Prince of Wales) is now heir. |
 
 
 ### History facts ###

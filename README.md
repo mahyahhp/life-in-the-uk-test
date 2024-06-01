@@ -632,7 +632,7 @@ Devolved administrations (parliaments in Scotland, Wales and Northern Ireland)
 
 | Name | Creation | Members | NMembers | Details |
 | --- | --- | --- | --- | --- |
-| National Assembly of Wales | 1999 | Assembly members (AMs) | 60 | - elections every 4 years - building is Cardiff - can pass laws for Scotland on all matters which are not specifically reserved to the UK Parliament - To make a booking, contact the Assembly Booking Service or the email assembly.|
+| National Assembly of Wales | 1999 | Assembly members (AMs) | 60 | - elections every 4 years - building is Cardiff - can pass laws for Wales on all matters which are not specifically reserved to the UK Parliament - To make a booking, contact the Assembly Booking Service or the email assembly.|
 | Scottish Parliament | 1999 | members of the Scottish Parliament (MSPs), elected via proportional representation | 129 | - can pass laws for Scotland on all matters which are not specifically reserved to the UK Parliament - To visit you can book tickets or arrange tours through visitor services.|
 | Northern Ireland Parliament | 1922 |  | | abolished in 1972 |
 | Northern Ireland Assembly | 1998 |  - members of the Legislative Assembly (MLAs) meet in the Northern Ireland Assembly at Stormont, Belfast | 108 |- the Assembly has been running successfully since 2007. - To visit you can either contact the Education Service (details are on the Northern Ireland Assembly website at www.niassembly.gov.uk) or contact an MLA.|

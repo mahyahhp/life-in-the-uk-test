@@ -644,7 +644,6 @@ Devolved administrations (parliaments in Scotland, Wales and Northern Ireland)
 ## Government and politics facts ##
 
 * The British constitution is not written down in any single document, and therefore it is described as ‘unwritten’. This is mainly because the UK, unlike America or France, has never had a revolution which led permanently to a totally new system of government.
-* When you arrive at the polling station, the staff will ask for your name and address. In Northern Ireland you will also have to show photographic identification. You will then get your ballot paper, which you take to a polling booth to fill in privately
 * The **Prime Minister** appoints about **20** **senior MPs** to become ministers in charge of departments:  
     * **Chancellor of the Exchequer** – responsible for the economy
     * **Home Secretary** – responsible for crime, policing and immigration

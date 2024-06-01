@@ -49,7 +49,7 @@ Life in the United Kingdom (3rd edition)
 | 1666                | Great Fire |- A great fire destroyed much of the London city, including St Paul’s Cathedral. <br>- A new St Paul’s was designed by a famous architect Sir Christopher Wren. <br>- Samuel Pepys wrote about these events in a diary. |
 | 1679               | Habeas Corpus | - You must present the person in court <br>- No one could be held prisoner unlawfully. |
 |1680-1720| Refugees called Huguenots came from France| - They were Protestants and had been persecuted for their religion|
-| 1685               | King James II | - was James VII of Scotland <br>- becomes king after Charles II dies. <br>- A catholic King. <br>- two Protestant daghters (elder daughter, Mary) and one Catholic son, |
+| 1685               | King James II | - was James VII of Scotland <br>- becomes king after Charles II dies (was his brother). <br>- A catholic King. <br>- two Protestant daghters (elder daughter, Mary) and one Catholic son, |
 | 1689                | Glorious Revolution | William of Orange, the Protestant ruler of the Netherlands and husbaned of Mary, has been asked to invade England <br>- James fled to France - William of Orange became King  William III in England, Wales and Ireland, and William II of Scotland. <br>- This event was later called the ‘Glorious Revolution’ because there was no fighting in England and because it guaranteed the power of Parliament, ending the threat of a monarch ruling on his or her own as he or she wished| 
 | 1689                | Bill of Rights | - confirmed the rights of Parliament and the limits of the king’s power. <br>- More control on the King (no longer be able to raise taxes or administer justice without agreement from Parliament)<br>- constitutional monarchy. <br>-king or queen must be a Protestant.  <br>-A new Parliament had to be elected at least every three years (later this became seven years and now it is five years)   <br>-Every year the monarch had to ask Parliament to renew funding for the army and the navy.   <br>- the beginning of party politics (There were two main groups in Parliament, known as the Whigs and the Tories.)   <br>- Only men who owned property of a certain value were able to vote. No women at all had the vote. Some constituencies were controlled by a single wealthy family. These were called ‘pocket boroughs’. Other constituencies had hardly any voters and were called ‘rotten boroughs’. |
 | 1690            | Battle of the Boyne | - James II wanted to regain the throne and invaded Ireland with the help of a French army. William III defeated James II at the Battle of the Boyne in Ireland. <br>- James II fled back to France <br>- All Scottish clans were required formally to accept William as king by taking an oath. The **MacDonalds of Glencoe** were late in taking the oath and were all killed. <br>- James II's supporters are known as Jacobites.|
@@ -160,25 +160,25 @@ Life in the United Kingdom (3rd edition)
 | --- | --- | --- |
 | William (Duke of Normandy) | Defeats saxon King Harold, **Doomsday Book** (how people lived after Norman Conquest - list of towns, villages, people, their animals) | 1066 |
 | King John | **Magna Carta** | 1215 |
-| Kind Edward I | **Statute of Rhuddlan** | 1284 |
-| Robert The Bruce | defeats english Battle of Bannockburn | 1314 |
-| King Henry V | beats French in Battle of Agincourt | 1415 |
+| Kind Edward I | **Statute of Rhuddlan** and annexing Wales | 1284 |
+| Robert The Bruce | defeats english in Battle of Bannockburn | 1314 |
+| King Henry V | beats French in Battle of Agincourt (hundred years war) | 1415 |
 | Henry Tudor VII | wins War of the Roses | 1485 |
-| Henry VIII | 6 wives (Catherine of Aragon, Anne Boleyn, Jane Seymour, Anne of Cleves, Catherine Howard, Catherine Perr) | 1509-47 |
+| Henry VIII | 6 wives (Catherine of Aragon, Anne Boleyn, Jane Seymour, Anne of Cleves, Catherine Howard, Catherine Perr) - The Reformation (Church of England) | 1509-47 |
 | Edward VI | strongly protestant, "Book of Common Prayer" | - |
 | Bloody Mary | daughter of Catherine of Aragon |
 | Elizabeth I | daughter of Anne Boleyn, defeats **Spanish Armada**, promotes patriotism | -1603 |
 | Sir Francis Drake | big role defeating the Spanish Armada, his Golden Hind is one of the first to circumnavigate earth | - |
 | William Shakespeare | born in Stratford-upon-Avon was a playwright and actor and wrote poems and plays | 1564-1616 |
 | Mary Stuart | a week old when she became queen, went to England and remain in prison for 20 years and then executed | - |
-| James I | of England Wales and Ireland, was VI of Scotland | - |
+| James I | of England Wales and Ireland, was VI of Scotland; ‘King James Version’ or ‘Authorised Version’ Bible; encouraging Protestants to move to nNorthern Ireland | - |
 | Charles I | starts Civil War with Parliament loses and gets executed | - |
 | Oliver Cromwell | Lord Protector during 11 years of Republic | -1658 |
 | Charles II | comes back to be king, interested in science forms Royal Society | -1685 |
 | Sir Edmund Halley | member of Royal Society, predicts the return of the Halley's Comet | - |
 | Isaac Newton | Linconshire, studied at Cambridge, work on Philosophiae Naturalis Principia Mathematica | 1643-1727 |
-| James II | brother of CharlesII he is VII of Scotland, favour Catholics | - |
-| William of Orange | husband of Mary elder of the King, invades England defeats James that flees to France, Bills of Rights | - |
+| James II | brother of Charles II he is VII of Scotland, favour Catholics | - |
+| William of Orange | husband of Mary elder of the King, invades England defeats James II that flees to France, Bills of Rights | - |
 | George I | a german becomes king | 1714- |
 | Robert Walpole | **first prime minister** under George I | 1721-42 |
 | Charles Edward Stuart | Prince Bonnie Charlie grandson of James II tries to get back the throne from George II but loses | - |
@@ -207,7 +207,7 @@ Life in the United Kingdom (3rd edition)
 | Sir Frank Whittle | developed **jet engine** in 1930 | 1907-96 |
 | Sir Christopher Cockerell | invented **hovercraft** 1950s | 
 | James Goodfellow | invented cash-dispensing **ATM** (automatic-teller machine) | 1937- |
-| Sir Robert Edwards and Patrick Steptoe | invented **IVS (in-vitro fertilisation)** | 
+| Sir Robert Edwards and Patrick Steptoe | invented **IVF (in-vitro fertilisation)** | 
 | Sir Ian Wilmot and Keith Campbell | led the team the achieved **cloning** of sheep Dolly | 1944-,1954-2012 |
 | Sir Peter Mansfield | co-inventor of **MRI (magnetic resonance imaging)** scanner | 1933- |
 | Sir Tim Berners-Lee | invented **World Wide Web** in 1990 | 1955- |
@@ -223,27 +223,35 @@ Life in the United Kingdom (3rd edition)
 
 | Name | Achievement |
 | --- | --- |
-| Sir Roger Bannister | first men to rin a 1 mile in less than 4 minutes |
-| Sir Jackie Stewart | scottish racing driver won Formula 1 3 times |
-| Bobby Moore | captain the English football team winning the 1966 world cup |
-| Sir Ian Botham | capitan of English Cricket team and winner of cricket records |
-| Jayne Torvill and Christopher Dean | won gold medal in ice dancing at Olympics in 1984 |in 5 consecutive Olympics |
-| Sir Steve Redgrave | won gold medals in rowing in 5 consecutive Olympics |
-| Baroness Tanni Grey-Thompson | wheelchair records, 11 gold medals |
+| Sir Roger Bannister | first men to run a 1 mile in less than 4 minutes |
 | Dame Kelly Holmes | won 2 gold medals for running in 2004 Olympics |
-| Dame Ellen MacArthur | yachtswoman fastest person to sail around the world in 2014 |
-| Sir Chris Hoy | Scottish cyclist that won 6 gold and 1 silver Olympic medals and 11 world championships |
-| David Weir | Paralympian with wheelchair has won 6 gold medals and London marathon 6 times |
-| Sir Bradley Wiggings | cyclist, first briton to win the tour de france in 2012, won 7 olympic medals including golds in 2004,2008 and 2012 |
 | Mo Farah | won gold medals in 2012 Olympics , first briton to win a medal in 10,000 metres |
 | Jessica Ennis | won 2012 Olympic heptathlon |
-| Andy Murray | Scottish tennis player won men's singles in US open in 2012, he won gold and silver medals at the Olympics |
+|||
+| Bobby Moore | captain the English football team winning the 1966 world cup |
+|||
+| Sir Ian Botham | capitan of English Cricket team and winner of cricket records |
+|||
+| Jayne Torvill and Christopher Dean | won gold medal in ice dancing at Olympics in 1984 |in 5 consecutive Olympics |
+|||
+| Baroness Tanni Grey-Thompson | wheelchair records, 11 gold medals |
+| David Weir | Paralympian with wheelchair has won 6 gold medals and London marathon 6 times |
 | Ellie Simmonds | Paralympian won gold medals for swimming at 2008 and 2012 Paralympic Games, was the youngest member at the 2008 Games |
 | Sir Francis Chichester | first person to sail single-handed around the world in 1966/67 |
 | Sir Robin Knox-Johnston | first person to sail single-handed around the world without stopping |
+|||
+| Sir Steve Redgrave | won gold medals in rowing in 5 consecutive Olympics |
+| Dame Ellen MacArthur | yachtswoman fastest person to sail around the world in 2014 |
+|||
+| Sir Chris Hoy | Scottish cyclist that won 6 gold and 1 silver Olympic medals and 11 world championships |
+| Sir Bradley Wiggings | cyclist, first briton to win the tour de france in 2012, won 7 olympic medals including golds in 2004,2008 and 2012 |
+|||
+| Andy Murray | Scottish tennis player won men's singles in US open in 2012, he won gold and silver medals at the Olympics |
+|||
 | Damon Hill | won the Formula 1 World Championship |
 | Lewis Hamilton | won the Formula 1 World Championship |
 | Jensen Button | won the Formula 1 World Championship |
+| Sir Jackie Stewart | scottish racing driver won Formula 1 3 times |
 
 * Wembley Stadium in London
 * Millennium Stadium in Cardiff

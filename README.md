@@ -92,7 +92,7 @@ Life in the United Kingdom (3rd edition)
 | 1916                |Easter Rising| -  uprising against the British in Dublin for Ireland independence. Defeated by Britain. |
 | 1916                |guerrilla war| - against the British army and the police in Ireland |
 | 1918                |- end of the WW1 on 11th of November |
-| 1918                | Chartists campaigned has adapted | - the voting franchise was also extended to women over 30 (in recognition of the contribution women made to the war effort during the First World War)|
+| 1918                | Chartists campaigned has adapted | - the voting franchise was also extended to women over 30 (in recognition of the contribution women made to the war effort during the First World War) <br>- every man over 21 can vote|
 | 1921                | Peace Treaty | - peace signed between Ireland and Britain|
 | 1922                | Ireland becomes 2 countries / BBC radio | - 6 protestant countries in the north and the rest is Irish Free State <br>- the Troubles: The conflict between those wishing for full Irish independence and those wishing to remain loyal to the British government |
 | 1928                | women can vote at the same age of men, 21 | - a fully democratic voting system|

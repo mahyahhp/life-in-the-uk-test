@@ -158,29 +158,31 @@ Life in the United Kingdom (3rd edition)
 
 | Name | What | Period |
 | --- | --- | --- |
-| William (Duke of Normandy) | Defeats saxon King Harold, **Doomsday Book** (how people lived after Norman Conquest - list of towns, villages, people, their animals) | 1066 |
-| King John | **Magna Carta** | 1215 |
-| Kind Edward I | **Statute of Rhuddlan** and annexing Wales | 1284 |
+| William (Duke of Normandy) | feudalism, battle of Hasting and defeating King Harold, Doomsday | 1066 |
+| King John | Magna Carta (king is restricted, parliment houses/ estates, judges independent of the government, common law in England And codified in Scotland | 1215 |
+| Kind Edward I | Statute of Rhuddlan - annexing wales | 1284 |
 | Robert The Bruce | defeats english in Battle of Bannockburn | 1314 |
-| King Henry V | beats French in Battle of Agincourt (hundred years war) | 1415 |
-| Henry Tudor VII | wins War of the Roses | 1485 |
-| Henry VIII | 6 wives (Catherine of Aragon, Anne Boleyn, Jane Seymour, Anne of Cleves, Catherine Howard, Catherine Perr) - The Reformation (Church of England) | 1509-47 |
+| King Henry V | wins in France 100 years wars in Battle of Agincourt | 1415 |
+| Henry Tudor VII | wins War of the Roses, Tudor king | 1485 |
+| Henry VIII | 6 wives (Catherine of Aragon, Anne Boleyn, Jane Seymour, Anne of Cleves, Catherine Howard, Catherine Perr), The Reformation (Church of England), formally annexes wales, Ireland | 1509-47 |
 | Edward VI | strongly protestant, "Book of Common Prayer" | - |
-| Bloody Mary | daughter of Catherine of Aragon |
-| Elizabeth I | daughter of Anne Boleyn, defeats **Spanish Armada**, promotes patriotism | -1603 |
+| Bloody Mary | daughter of Catherine of Aragon (prosecuted protestants) |
+| Elizabeth I | daughter of Anne Boleyn, defeats **Spanish Armada**, promotes patriotism, colonies in America, riches of poetry and drama | -1603 |
 | Sir Francis Drake | big role defeating the Spanish Armada, his Golden Hind is one of the first to circumnavigate earth | - |
 | William Shakespeare | born in Stratford-upon-Avon was a playwright and actor and wrote poems and plays | 1564-1616 |
 | Mary Stuart | a week old when she became queen, went to England and remain in prison for 20 years and then executed | - |
-| James I | of England Wales and Ireland, was VI of Scotland; ‘King James Version’ or ‘Authorised Version’ Bible; encouraging Protestants to move to nNorthern Ireland | - |
-| Charles I | starts Civil War with Parliament loses and gets executed | - |
-| Oliver Cromwell | Lord Protector during 11 years of Republic | -1658 |
-| Charles II | comes back to be king, interested in science forms Royal Society | -1685 |
+| James I | of England Wales and Ireland, was VI of Scotland; ‘King James Version’ or ‘Authorised Version’ Bible; encouraging Protestants to move to Northern Ireland in Ulster, divine right of Kings, created the first Union Flag, guy Fawkes | - |
+| Charles I | Divine right of king, revised prayer book and imposing to church of scotland, parliament refused, civil war, Cavaliers and Roundheads, Battle of Marston Moor/Naseby, executed | - |
+| Oliver Cromwell | Lord Protector during 11 years of Republic, Britin republic/Commonwealth, Ireland revolt, Battle of Dunbar and Worcester to defeat Charles II, first Jews come to the country | -1658 |
+| Charles II | Restoration (returning Monarchy), Royal society (Edmund Halley and Newton), Plague, Great fire, Habeas Corpus (no prisoner without court), Huguenots | -1685 |
 | Sir Edmund Halley | member of Royal Society, predicts the return of the Halley's Comet | - |
 | Isaac Newton | Linconshire, studied at Cambridge, work on Philosophiae Naturalis Principia Mathematica | 1643-1727 |
 | James II | brother of Charles II he is VII of Scotland, favour Catholics | - |
-| William of Orange | husband of Mary elder of the King, invades England defeats James II that flees to France, Bills of Rights | - |
-| George I | a german becomes king | 1714- |
+| William of Orange | husband of Mary elder of the King, Glorious Revolution, Bill of Right (constitutional monarchy, parliament with elections every 3 years, beginning of party politics, pocket and rotten boroughs), battle of Boye (defeated James II and his Jacobites supporters), a Scottish clan called MacDonalds of Glencoe, free press/newspaper | - |
+| Queen Anne | kingdom of Great Britain is created by joining Scotland in the Act of Treaty/Union of 1700, no children, Begining of Enlightenment (until 18th century: economist Adam Smith and philosopher David Hune, scientist James Watt), Begining of industrial revolution period (until 19th century: rapid development if industry, Bessemer process, increased colonisation: Australia, Canada, India, south Africa)  |1707|
+| George I | German, Robert Walpole as first Prime Minister | 1714- |
 | Robert Walpole | **first prime minister** under George I | 1721-42 |
+| George II | Battle of Culloden (defeating Charles Edward Stuart called as Bonnie Prince Charlie), highland clearance | 1745 |
 | Charles Edward Stuart | Prince Bonnie Charlie grandson of James II tries to get back the throne from George II but loses | - |
 | Robert Burns | scottish poet writes Auld Lang Syne (sang for new year) | 1759-96 |
 | Richard Arkwright | efficient running factories | 1731-92 |
@@ -223,9 +225,9 @@ Life in the United Kingdom (3rd edition)
 
 | Name | Achievement |
 | --- | --- |
-| Sir Roger Bannister | first men to run a 1 mile in less than 4 minutes |
+| Sir Roger **Bannister** | first men to run a 1 mile in less than 4 minutes |
 | Dame Kelly Holmes | won 2 gold medals for running in 2004 Olympics |
-| Mo Farah | won gold medals in 2012 Olympics , first briton to win a medal in 10,000 metres |
+| Mo **Farah** | won gold medals in 2012 Olympics , first briton to win a medal in 10,000 metres |
 | Jessica Ennis | won 2012 Olympic heptathlon |
 |||
 | Bobby Moore | captain the English football team winning the 1966 world cup |
@@ -265,7 +267,7 @@ Cricket
 * originated in England
 * Reflects the best of the British character
 * You may come across expressions such as ‘rain stopped play’, ‘batting on a sticky wicket’, ‘playing a straight bat’, ‘bowled a googly’ or ‘it’s just not cricket’, which have passed into everyday usage.
-*  Ashes: The most famous competition, which is a series of Test matches played between England and Australia.
+* Ashes: The most famous competition, which is a series of Test matches played between England and Australia.
 
 
 Football
